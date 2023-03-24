@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ab007258-ffc7-47a5-9745-90063d0613cc" name="d8">
+        <fileTransfer rootFolder="/home/d8data/adam" accessType="SFTP" host="d8" port="2233" sshConfigId="52454801-5390-41b0-9c89-e01116bd6e07" sshConfig="adam@d8:2233 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
