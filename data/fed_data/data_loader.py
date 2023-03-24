@@ -9,6 +9,7 @@ def load_fed_data(base_dir):
         data = json.load(f)
 
     contexts, references, responses, scores = [], [], [], []
+    models = []
     for idx, sample in enumerate(data):
 
         context = []
@@ -35,16 +36,20 @@ def load_fed_data(base_dir):
                 score[aspect] = 0
             else:
                 score[aspect] = np.mean(aspect_score)
-    
+
+        model = sample['system']
+
         contexts.append(context)
         references.append('NO REF')
         responses.append(response)
         scores.append(score)
+        models.append(model)
 
     return {
         'contexts': contexts,
         'references': references,
         'responses': responses,
+        'models': models,
         'scores': scores
     }
 
@@ -56,6 +61,7 @@ def load_fed_dialog_data(base_dir):
         data = json.load(f)
 
     contexts, references, responses, scores = [], [], [], []
+    models = []
     for idx, sample in enumerate(data):
 
         if 'response' in sample:
@@ -83,11 +89,13 @@ def load_fed_dialog_data(base_dir):
         references.append('NO REF')
         responses.append(response)
         scores.append(score)
+        models.append(sample['system'])
 
     return {
         'contexts': contexts,
         'references': references,
         'responses': responses,
+        'models': models,
         'scores': scores
     }
 

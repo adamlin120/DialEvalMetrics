@@ -7,6 +7,7 @@ def load_holistic_data(base_dir):
     base_dir = Path(base_dir)
     
     contexts, responses, references, scores = [], [], [], []
+    models = []
     with (base_dir / 'context_data_release.csv').open() as f:
         reader = csv.reader(f, delimiter=',')
         for row in reader:
@@ -19,12 +20,14 @@ def load_holistic_data(base_dir):
             responses.append(response)
             references.append('NO REF')
             scores.append(score)
+            models.append('LSTM Seq2Seq')
 
 
     return {
         'contexts': contexts,
         'responses': responses,
         'references': references,
+        'models': models,
         'scores': scores
     }
 

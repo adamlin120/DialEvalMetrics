@@ -7,6 +7,7 @@ def load_engage_data(base_dir):
     base_dir = Path(base_dir)
     
     contexts, responses, references, scores = [], [], [], []
+    models = []
     '''with (base_dir / 'engage_data.csv').open() as f:
         reader = csv.DictReader(f, delimiter=',')
         for row in reader:
@@ -47,6 +48,7 @@ def load_engage_data(base_dir):
             responses.append(response)
             references.append('NO REF')
             scores.append(score)
+            models.append('LSTM Seq2Seq')
     
 
 
@@ -54,6 +56,7 @@ def load_engage_data(base_dir):
         'contexts': contexts,
         'responses': responses,
         'references': references,
+        'models': models,
         'scores': scores
     }
 

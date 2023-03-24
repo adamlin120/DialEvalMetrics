@@ -36,7 +36,10 @@ def parse_dialog(dialog):
 
     for idx, r_raw in enumerate(response_raw[:-1]):
         response_split = r_raw.strip().split()
-        score = json.loads(response_split[1])
+        try:
+            score = json.loads(response_split[1])
+        except json.decoder.JSONDecodeError:
+            continue
         response = ' '.join(response_split[2:])
 
         if response.strip() == '':
