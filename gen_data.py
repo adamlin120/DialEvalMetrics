@@ -25,6 +25,7 @@ from deb.data_parser import gen_deb_data
 from dynaeval.data_parser import gen_dynaeval_data
 from fbd.data_parser import gen_fbd_data
 from dialogrpt.data_parser import gen_dialogrpt_data
+from llm.data_parser import gen_llm_data
 
 def parse_args():
     parser = argparse.ArgumentParser(description='')
@@ -123,7 +124,12 @@ def main(source_data, target_format):
         metric = 'dialogrpt'
         output_dir = f'{os.getcwd()}/dialogrpt/test_data'
         gen_data = gen_dialogrpt_data
-        suffix = '' 
+        suffix = ''
+    elif target_format.startswith('llm'):
+        metric = 'llm'
+        output_dir = f'{os.getcwd()}/llm/data/'
+        gen_data = gen_llm_data
+        suffix = '.json'
     else:
         raise Exception
     '''
