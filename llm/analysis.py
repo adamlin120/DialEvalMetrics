@@ -160,7 +160,7 @@ def main():
     # print the results in the format of a table
     # float in 3 decimal places
     print(
-        f"{'data file':<60}{'style':<10}{'Turn P':<10}{'Turn S':<10}{'Dialog P':<10}{'Dialog S':<10}"
+        f"{'data file':<60}{'style':<10}{'Turn P':<10}{'Turn S':<10}{'System P':<10}{'System S':<10}"
     )
     for result in results:
         print(
