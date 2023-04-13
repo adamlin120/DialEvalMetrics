@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>amt</title>
+
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<style>
+	body {
+		padding-left: 20px;
+		margin-bottom: 20px;
+	}
+	.response-container {
+	    display: flex;
+	    justify-content: space-around;
+	    max-width: 900px;
+	    margin-left: 100px;
+	}
+	.left-container {
+    	margin-right: auto;
+    	padding-right: 50px;
+	}
+	.right-container {
+    	margin-left: auto;
+    	padding-left: 50px;
+	}
+	#vertical-separator {
+	    border: solid 1px #d5dbdb;
+	}
+</style>
+
+<crowd-form>
+    <div>
+        <h1>Instructions</h1>
+        <p>In this task, you will be evaluating four different responses to the same dialogue context. <br>
+            Your job is to rate how <b>natural the flow</b> of each response was, how <b>consistent and on-topic</b> each response was, and the <b>overall quality</b> of each response. <br>
+            Please rate each response separately.</p>
+    </div>
+    <div>
+        <h2>Background</h2>
+    	<p>The following is a dialogue context:</p>
+        <p><b><em>"${context_html}"</em></b></p>
+        <p>Please evaluate the following four responses in terms of how <b>natural, consistent and on-topic, and high quality</b> they are, given the dialogue context above.</p>
+    </div>
+
+    <div class="response-container">
+        <span class="left-container">
+            <h2>Response 1</h2>
+            <p><b>${speaker}: ${COSMO-3B}</b></p>
+            <p><b>Naturalness:</b> 1 = Not natural, 5 = Very natural</p>
+            <crowd-slider name="natural1" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how natural was the flow of the response provided in the dialog context?"></crowd-slider>
+            <p><b>Consistency and on-topic:</b> 1 = Not consistent/on-topic, 5 = Very consistent/on-topic</p>
+            <crowd-slider name="consistent1" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how consistent and on-topic was the response provided in the dialog context?"></crowd-slider>
+            <p><b>Overall quality:</b> 1 = Very low quality, 5 = Very high quality</p>
+            <crowd-slider name="quality1" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how high quality was the response provided in the dialog context overall?"></crowd-slider>
+        </span>
+        <span id="vertical-separator"></span>
+        <span class="right-container">
+            <h2>Response 2</h2>
+            <p><b>${speaker}: ${GODEL-L}</b></p>
+            <p><b>Naturalness:</b> 1 = Not natural, 5 = Very natural</p>
+            <crowd-slider name="natural2" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how natural was the flow of the response provided in the dialog context?"></crowd-slider>
+            <p><b>Consistency and on-topic:</b> 1 = Not consistent/on-topic, 5 = Very consistent/on-topic</p>
+            <crowd-slider name="consistent2" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how consistent and on-topic was the response provided in the dialog context?"></crowd-slider>
+            <p><b>Overall quality:</b> 1 = Very low quality, 5 = Very high quality</p>
+            <crowd-slider name="quality2" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how high quality was the response provided in the dialog context overall?"></crowd-slider>
+        </span>
+    </div>
+    <div class="response-container">
+        <span class="left-container">
+            <h2>Response 3</h2>
+            <p><b>${speaker}: ${response}</b></p>
+            <p><b>Naturalness:</b> 1 = Not natural, 5 = Very natural</p>
+            <crowd-slider name="natural3" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how natural was the flow of the response provided in the dialog context?"></crowd-slider>
+            <p><b>Consistency and on-topic:</b> 1 = Not consistent/on-topic, 5 = Very consistent/on-topic</p>
+            <crowd-slider name="consistent3" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how consistent and on-topic was the response provided in the dialog context?"></crowd-slider>
+        <p><b>Overall quality:</b> 1 = Very low quality, 5 = Very high quality</p>
+        <crowd-slider name="quality3" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how high quality was the response provided in the dialog context overall?"></crowd-slider>
+        </span>
+        <span id="vertical-separator"></span>
+        <span class="right-container">
+        <h2>Response 4</h2>
+        <p><b>${speaker}: ${BlenderBot-3B}</b></p>
+        <p><b>Naturalness:</b> 1 = Not natural, 5 = Very natural</p>
+        <crowd-slider name="natural4" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how natural was the flow of the response provided in the dialog context?"></crowd-slider>
+        <p><b>Consistency and on-topic:</b> 1 = Not consistent/on-topic, 5 = Very consistent/on-topic</p>
+        <crowd-slider name="consistent4" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how consistent and on-topic was the response provided in the dialog context?"></crowd-slider>
+        <p><b>Overall quality:</b> 1 = Very low quality, 5 = Very high quality</p>
+        <crowd-slider name="quality4" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how high quality was the response provided in the dialog context overall?"></crowd-slider>
+        </span>
+        </div>
+    <div class="response-container">
+  <span class="left-container">
+    <h2>Response 5</h2>
+    <p><b>${speaker}: ${DialoGPT}</b></p>
+    <p><b>Naturalness:</b> 1 = Not natural, 5 = Very natural</p>
+    <crowd-slider name="natural5" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how natural was the flow of the response provided in the dialog context?"></crowd-slider>
+    <p><b>Consistency and on-topic:</b> 1 = Not consistent/on-topic, 5 = Very consistent/on-topic</p>
+    <crowd-slider name="consistent5" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how consistent and on-topic was the response provided in the dialog context?"></crowd-slider>
+    <p><b>Overall quality:</b> 1 = Very low quality, 5 = Very high quality</p>
+    <crowd-slider name="quality5" min="1" max="5" step="1" required pin="true" label="On a scale of 1-5, how high quality was the response provided in the dialog context overall?"></crowd-slider>
+  </span>
+  <span id="vertical-separator"></span>
+  <span class="right-container">
+    <!-- Right container content here -->
+  </span>
+</div>
+
+
+
+
+</div>
+</crowd-form>
+
+
+</head>
+<body>
+
+</body>
+</html>
