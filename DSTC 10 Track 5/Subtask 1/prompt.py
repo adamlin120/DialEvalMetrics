@@ -6,6 +6,13 @@ turn_eval_template = (
     "Dialogue response: {response}"
 )
 
+turn_noref_eval_template = (
+    "{format_instructions}\n"
+    "Score the following dialogue response generated on a continuous scale from {score_min} to {score_max}.\n"
+    "Context: {context}\n"
+    "Dialogue response: {response}"
+)
+
 dialogue_eval_template = (
     "{format_instructions}\n"
     "Score the following dialogue generated on a continuous scale from {score_min} to {score_max}.\n"

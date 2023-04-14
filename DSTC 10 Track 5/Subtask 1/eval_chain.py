@@ -12,7 +12,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.prompts.chat import ChatPromptTemplate, HumanMessagePromptTemplate
 
 from human_evaluation_data.generate_submission_template import dialogue_test_set_iterator, dialogue_dev_set_iterator, dialogue_iterator as dialogue_iterator_all
-from prompt import turn_eval_template, dialogue_eval_template, score_config
+from prompt import turn_eval_template, turn_noref_eval_template,dialogue_eval_template, score_config
 
 logging.basicConfig(level=logging.INFO)
 
@@ -64,6 +64,7 @@ if __name__ == "__main__":
     parser.add_argument("--score_type", type=str, default="0-5", choices=["0-5", "0-100"])
     parser.add_argument("--data_set", type=str, required=True, choices=["dev", "test", "all"])
     parser.add_argument("--save_path", type=str, required=True)
+    parser.add_argument("--reference_free", action="store_true")
     args = parser.parse_args()
 
     score_type = args.score_type
@@ -96,16 +97,27 @@ if __name__ == "__main__":
             continue
 
         is_turn_level = "response" in datum
+        has_reference = "reference" in datum
+
+        if args.reference_free and not has_reference:
+            continue
+
+        if is_turn_level:
+            if has_reference and not args.reference_free:
+                human_template = turn_eval_template
+            else:
+                human_template = turn_noref_eval_template
+        else:
+            human_template = dialogue_eval_template
+
         try:
             raw_output, scores = run_eval_chain(
                 model_name=args.model_name,
                 score_aspects=aspects,
-                human_template=turn_eval_template
-                if is_turn_level
-                else dialogue_eval_template,
+                human_template=human_template,
                 context=datum["context"] if is_turn_level else None,
                 response=datum["response"] if is_turn_level else None,
-                reference=datum.get("reference", "") if is_turn_level else None,
+                reference=datum["reference"] if is_turn_level and has_reference else None,
                 dialog=datum["dialog"] if not is_turn_level else None,
                 **score_config[score_type],
             )
