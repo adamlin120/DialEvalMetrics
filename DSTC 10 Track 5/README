@@ -1,0 +1,45 @@
+Baselines and Data Description
+
+Subtask 1: Automatic Open-domain Dialogue Evaluation (https://github.com/e0397123/dstc10_metric_track)
+
+Subtask 2: Moderation of Open-domain Dialogue Systems (https://github.com/lfdharo/DSTC10_Track5_Toxicity)
+
+--------
+2021-06-30
+
+There was an update to Subtask 2 data.
+
+--------
+2021-09-19
+
+Evaluation data for both subtasks were added
+
+Subtask1/dstc10-task5.1_eval.json
+Subtask2/DSTC10_Track5-2_Eval.csv 
+
+
+--------
+2021-09-24
+
+Added both the script and template for subtask 1
+
+Subtask1/human_evaluation_data.zip updated
+New files within subfolder human_evaluation_data/
+  - DSTC 10 Track 5/Subtask 1/human_evaluation_data/submission_template_test.csv
+  - DSTC 10 Track 5/Subtask 1/human_evaluation_data/generate_submission_template_test.py
+
+
+--------
+2021-10-28
+
+Subtask1 test data released.
+"_clean" variants were used in they evaluation. They are filtered by mean average deviation.
+
+New files within the subfolder human_evaluation_data/
+  - DSTC 10 Track 5/Subtask 1/human_evaluation_data/dstc10-persona_eval.json
+  - DSTC 10 Track 5/Subtask 1/human_evaluation_data/dstc10-persona_clean_eval.json
+  - DSTC 10 Track 5/Subtask 1/human_evaluation_data/dstc10-topical_eval.json
+  - DSTC 10 Track 5/Subtask 1/human_evaluation_data/dstc10-topical_clean_eval.json
+  - DSTC 10 Track 5/Subtask 1/human_evaluation_data/jsalt_eval.json
+  - DSTC 10 Track 5/Subtask 1/human_evaluation_data/ncm_eval.json
+  - DSTC 10 Track 5/Subtask 1/human_evaluation_data/esl_eval.json
