@@ -14,13 +14,20 @@ from langchain.output_parsers import RegexParser
 
 logging.basicConfig(level=logging.INFO)
 
+# eval_template = (
+#     "Evaluate the following dialogue based on user satisfaction, using the following scale:\n"
+#     "1 - Very dissatisfied: The system fails to understand and fulfill the user's request.\n"
+#     "2 - Dissatisfied: The system understands the request but fails to satisfy it in any way.\n"
+#     "3 - Normal: The system understands the user's request and either partially satisfies the request or provides information on how the request can be fulfilled.\n"
+#     "4 - Satisfied: The system understands and satisfies the user request, but provides more information than what the user requested or takes extra turns before meeting the request.\n"
+#     "5 - Very satisfied: The system understands and satisfies the user request completely and efficiently.\n"
+#     "Dialogue: {dialog}\n"
+#     "Score the dialogue on a scale from 1.0 to 5.0."
+#     "Score:"
+# )
+
 eval_template = (
     "Evaluate the following dialogue based on user satisfaction, using the following scale:\n"
-    "1 - Very dissatisfied: The system fails to understand and fulfill the user's request.\n"
-    "2 - Dissatisfied: The system understands the request but fails to satisfy it in any way.\n"
-    "3 - Normal: The system understands the user's request and either partially satisfies the request or provides information on how the request can be fulfilled.\n"
-    "4 - Satisfied: The system understands and satisfies the user request, but provides more information than what the user requested or takes extra turns before meeting the request.\n"
-    "5 - Very satisfied: The system understands and satisfies the user request completely and efficiently.\n"
     "Dialogue: {dialog}\n"
     "Score the dialogue on a scale from 1.0 to 5.0."
     "Score:"
@@ -111,9 +118,10 @@ if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument("--model_name", type=str, default="gpt-3.5-turbo-0301")
     parser.add_argument("--data_path", type=str, required=True)
+    parser.add_argument("--save_path", type=str, required=True)
     args = parser.parse_args()
 
-    save_path = Path(args.data_path).with_suffix(".json")
+    save_path = args.save_path
 
     df = parse_dialogue_scores(args.data_path)
 
