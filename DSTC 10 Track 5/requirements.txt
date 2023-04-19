@@ -1,0 +1,12 @@
+openai==0.27.4
+langchain==0.0.142
+pandas==2.0.0
+scipy==1.10.1
+transformers==4.28.1
+datasets==2.11.0
+torch==2.0.0
+tabulate
+Jinja2
+ipdb
+isort
+black

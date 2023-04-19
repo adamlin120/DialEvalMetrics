@@ -3,12 +3,20 @@ Source: https://raw.githubusercontent.com/skywalker023/sodaverse/main/chat_with_
 """
 
 import random
-import torch
-import pandas as pd
-from datasets import load_dataset
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, set_seed, pipeline, Conversation
-from tqdm import tqdm
 from copy import deepcopy
+
+import openai
+import pandas as pd
+import torch
+from datasets import load_dataset
+from tqdm import tqdm
+from transformers import (
+    AutoModelForSeq2SeqLM,
+    AutoTokenizer,
+    Conversation,
+    pipeline,
+    set_seed,
+)
 
 set_seed(42)
 
@@ -41,12 +49,44 @@ def main():
         context = conversation[:index]
         response = conversation[index]
         # add html newline tags and ALICE and BOB tags
-        context_html = ["<b>ALICE:</b> " + c if i % 2 == 0 else "<b>BOB:</b> " + c for i, c in enumerate(context)]
+        context_html = [
+            "<b>ALICE:</b> " + c if i % 2 == 0 else "<b>BOB:</b> " + c
+            for i, c in enumerate(context)
+        ]
         context_html = "<br>".join(context_html)
         speaker = "ALICE" if len(context) % 2 == 0 else "BOB"
-        dataset.append({"context": context, "response": response, "context_html": context_html, "speaker": speaker})
+        dataset.append(
+            {
+                "context": context,
+                "response": response,
+                "context_html": context_html,
+                "speaker": speaker,
+            }
+        )
 
-    dialogpt = pipeline("conversational", "microsoft/DialoGPT-large", device=0 if torch.cuda.is_available() else -1)
+    # chatgpt
+    prompt_template = "You will be generating the next turn of a given dialogue between two people. " \
+                      "Your response should usually be 1-2 sentences.\n" \
+                      "Dialogue:\n{dialogue}\n" \
+                      "What is the most appropriate next utterance (3 sentences max)?."
+    for row in tqdm(dataset):
+        conversation = row["context"]
+        prompt = prompt_template.format(dialogue="\n".join(conversation))
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo-0301",
+            temperature=0,  # Set temperature=0 for greedy decoding
+            messages=[{"role": "user", "content": prompt}],
+            stop=["\n"],
+        )
+        response_text = response.choices[0].message.content.strip()
+        row["ChatGPT"] = response_text
+        print(f"chatgpt: {response_text}")
+
+    dialogpt = pipeline(
+        "conversational",
+        "microsoft/DialoGPT-large",
+        device=0 if torch.cuda.is_available() else -1,
+    )
     dialogpt.tokenizer.pad_token_id = dialogpt.tokenizer.eos_token_id
     for row in tqdm(dataset):
         conversation = deepcopy(row["context"])
@@ -57,17 +97,27 @@ def main():
         else:
             past_user_inputs = conversation[1::2]
             generated_responses = conversation[::2]
-        conv = Conversation(text=new_user_input, past_user_inputs=past_user_inputs, generated_responses=generated_responses)
+        conv = Conversation(
+            text=new_user_input,
+            past_user_inputs=past_user_inputs,
+            generated_responses=generated_responses,
+        )
         dgpt = dialogpt(conv, top_p=0.95, do_sample=True).generated_responses[-1]
         row["DialoGPT"] = dgpt
         print(f"DialoGPT: {dgpt}")
     del dialogpt
     torch.cuda.empty_cache()
 
-    blenderbot = pipeline("text2text-generation", "facebook/blenderbot-3B", device=0 if torch.cuda.is_available() else -1)
+    blenderbot = pipeline(
+        "text2text-generation",
+        "facebook/blenderbot-3B",
+        device=0 if torch.cuda.is_available() else -1,
+    )
     for row in tqdm(dataset):
         conversation = row["context"]
-        bb = blenderbot("</s> <s>".join(conversation), top_p=0.95, do_sample=True, truncation=True)[0]["generated_text"]
+        bb = blenderbot(
+            "</s> <s>".join(conversation), top_p=0.95, do_sample=True, truncation=True
+        )[0]["generated_text"]
         row["BlenderBot-3B"] = bb
         print(f"blenderbot: {bb}")
     del blenderbot
@@ -111,15 +161,24 @@ def main():
     del cosmo_model
     torch.cuda.empty_cache()
 
-    godel_tokenizer = AutoTokenizer.from_pretrained("microsoft/GODEL-v1_1-large-seq2seq")
-    godel_model = AutoModelForSeq2SeqLM.from_pretrained("microsoft/GODEL-v1_1-large-seq2seq").to(device)
+    godel_tokenizer = AutoTokenizer.from_pretrained(
+        "microsoft/GODEL-v1_1-large-seq2seq"
+    )
+    godel_model = AutoModelForSeq2SeqLM.from_pretrained(
+        "microsoft/GODEL-v1_1-large-seq2seq"
+    ).to(device)
+
     def godel_generate(instruction, knowledge, dialog):
-        if knowledge != '':
-            knowledge = '[KNOWLEDGE] ' + knowledge
-        dialog = ' EOS '.join(dialog)
+        if knowledge != "":
+            knowledge = "[KNOWLEDGE] " + knowledge
+        dialog = " EOS ".join(dialog)
         query = f"{instruction} [CONTEXT] {dialog} {knowledge}"
-        input_ids = godel_tokenizer(f"{query}", return_tensors="pt").to(device).input_ids
-        outputs = godel_model.generate(input_ids, max_length=128, min_length=8, top_p=0.9, do_sample=True)
+        input_ids = (
+            godel_tokenizer(f"{query}", return_tensors="pt").to(device).input_ids
+        )
+        outputs = godel_model.generate(
+            input_ids, max_length=128, min_length=8, top_p=0.9, do_sample=True
+        )
         output = godel_tokenizer.decode(outputs[0], skip_special_tokens=True)
         return output
 
