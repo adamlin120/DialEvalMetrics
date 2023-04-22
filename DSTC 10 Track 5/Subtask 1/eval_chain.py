@@ -1,18 +1,31 @@
 import logging
 import os
+from argparse import ArgumentParser
 from parser import get_pydantic_output_parser
 from typing import List
-from argparse import ArgumentParser
 
 import pandas as pd
-from openai.error import Timeout
-from tqdm import tqdm
+from human_evaluation_data.generate_submission_template import (
+    dialogue_dd_llmeval_iterator,
+    dialogue_dev_set_iterator,
+)
+from human_evaluation_data.generate_submission_template import (
+    dialogue_iterator as dialogue_iterator_all,
+)
+from human_evaluation_data.generate_submission_template import (
+    dialogue_test_set_iterator,
+)
 from langchain import LLMChain
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts.chat import ChatPromptTemplate, HumanMessagePromptTemplate
-
-from human_evaluation_data.generate_submission_template import dialogue_test_set_iterator, dialogue_dev_set_iterator, dialogue_iterator as dialogue_iterator_all
-from prompt import turn_eval_template, turn_noref_eval_template,dialogue_eval_template, score_config
+from openai.error import Timeout
+from prompt import (
+    dialogue_eval_template,
+    score_config,
+    turn_eval_template,
+    turn_noref_eval_template,
+)
+from tqdm import tqdm
 
 logging.basicConfig(level=logging.INFO)
 
@@ -34,7 +47,7 @@ def run_eval_chain(
     chain = LLMChain(
         prompt=chat_prompt,
         llm=chat,
-        # verbose=True,
+        verbose=True,
     )
 
     parser = get_pydantic_output_parser(
@@ -61,8 +74,15 @@ def run_eval_chain(
 if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument("--model_name", type=str, default="gpt-3.5-turbo-0301")
-    parser.add_argument("--score_type", type=str, default="0-5", choices=["0-5", "0-100"])
-    parser.add_argument("--data_set", type=str, required=True, choices=["dev", "test", "all"])
+    parser.add_argument(
+        "--score_type", type=str, default="0-5", choices=["0-5", "0-100"]
+    )
+    parser.add_argument(
+        "--data_set",
+        type=str,
+        required=True,
+        choices=["dev", "test", "all", "DD_LLMEval"],
+    )
     parser.add_argument("--save_path", type=str, required=True)
     parser.add_argument("--reference_free", action="store_true")
     args = parser.parse_args()
@@ -75,10 +95,14 @@ if __name__ == "__main__":
         dialogue_iterator = dialogue_test_set_iterator
     elif args.data_set == "all":
         dialogue_iterator = dialogue_iterator_all
+    elif args.data_set == "DD_LLMEval":
+        dialogue_iterator = dialogue_dd_llmeval_iterator
     else:
         raise ValueError("Unknown data set %s" % args.data_set)
 
-    turns_or_dialogues = sorted(list(dialogue_iterator()), key=lambda x: x["dialogue_id"])
+    turns_or_dialogues = sorted(
+        list(dialogue_iterator()), key=lambda x: x["dialogue_id"]
+    )
 
     logging.info("Found total %d turns or dialogues" % len(turns_or_dialogues))
 
@@ -92,7 +116,10 @@ if __name__ == "__main__":
 
         aspects = list(datum["annotations"].keys())
 
-        if all(f"{datum['dialogue_id']}|{aspect}" in already_evaluated for aspect in aspects):
+        if all(
+            f"{datum['dialogue_id']}|{aspect}" in already_evaluated
+            for aspect in aspects
+        ):
             # logging.info("Already evaluated all aspects for %s" % datum["dialogue_id"])
             continue
 
@@ -117,7 +144,9 @@ if __name__ == "__main__":
                 human_template=human_template,
                 context=datum["context"] if is_turn_level else None,
                 response=datum["response"] if is_turn_level else None,
-                reference=datum["reference"] if is_turn_level and has_reference else None,
+                reference=datum["reference"]
+                if is_turn_level and has_reference
+                else None,
                 dialog=datum["dialog"] if not is_turn_level else None,
                 **score_config[score_type],
             )

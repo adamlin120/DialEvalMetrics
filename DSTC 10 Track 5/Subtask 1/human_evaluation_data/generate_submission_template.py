@@ -21,7 +21,10 @@ TEST_FILES = {
     "ncm_eval.json",
 }
 
+
 _PATH = Path(__file__).parent.absolute()
+
+DD_LLMEval_FILES = _PATH / "DailyDialog_LLMEval.json"
 
 
 def files_iterator():
@@ -76,6 +79,14 @@ def dialogue_dev_set_iterator():
         for item in d:
             item["dataset"] = f.stem
             yield item
+
+
+def dialogue_dd_llmeval_iterator():
+    f = DD_LLMEval_FILES
+    d = json.load(open(f))
+    for item in d:
+        item["dataset"] = f.stem
+        yield item
 
 
 if __name__ == "__main__":

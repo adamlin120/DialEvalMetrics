@@ -5,9 +5,8 @@ from pprint import pprint
 
 import numpy as np
 import pandas as pd
-from scipy.stats import spearmanr
-
 from generate_submission_template import dialogue_test_set_iterator
+from scipy.stats import spearmanr
 
 logging.basicConfig(level=logging.INFO)
 
@@ -52,7 +51,9 @@ def main(user_submission):
     user_submission_dialogue_id = sorted(list(user_submission["dialogue_id"]))
     annotation_dialogue_id = sorted(list(annotations_scores["dialogue_id"]))
     for x, y in zip(user_submission_dialogue_id, annotation_dialogue_id):
-        assert x == y, f"Wrong dialogue_id in your submission, expected {y} from annotation but got {x} from your submission"
+        assert (
+            x == y
+        ), f"Wrong dialogue_id in your submission, expected {y} from annotation but got {x} from your submission"
 
     user_submitted_scores = list(user_submission["score"])
     for item in user_submitted_scores:
@@ -68,7 +69,8 @@ def main(user_submission):
     dataset_list = [item.rsplit("_", 1)[0] for item in dialogue_id_list]
     dimension_list = [item.rsplit("|", 1)[1] for item in dialogue_id_list]
     dataset_dimension_list = [
-        item.rsplit("_", 1)[0] + "|" + item.rsplit("|", 1)[1] for item in dialogue_id_list
+        item.rsplit("_", 1)[0] + "|" + item.rsplit("|", 1)[1]
+        for item in dialogue_id_list
     ]
     final_df["dataset_list"] = dataset_list
     final_df["dimension_list"] = dimension_list
