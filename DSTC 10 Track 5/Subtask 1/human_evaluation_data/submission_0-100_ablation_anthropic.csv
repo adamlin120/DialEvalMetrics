@@ -1,0 +1,4089 @@
+dialogue_id,score,dialouge_id_wo_aspect,raw_output
+dstc10-task5.1_00000|appropriateness,90,dstc10-task5.1_00000,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00000|content,85,dstc10-task5.1_00000,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00000|grammar,95,dstc10-task5.1_00000,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00000|relevance,90,dstc10-task5.1_00000,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00001|appropriateness,90,dstc10-task5.1_00001,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00001|content,85,dstc10-task5.1_00001,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00001|grammar,95,dstc10-task5.1_00001,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00001|relevance,90,dstc10-task5.1_00001,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00002|appropriateness,80,dstc10-task5.1_00002,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00002|content,70,dstc10-task5.1_00002,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00002|grammar,90,dstc10-task5.1_00002,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00002|relevance,85,dstc10-task5.1_00002,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00003|appropriateness,80,dstc10-task5.1_00003,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00003|content,70,dstc10-task5.1_00003,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00003|grammar,90,dstc10-task5.1_00003,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00003|relevance,85,dstc10-task5.1_00003,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00004|appropriateness,90,dstc10-task5.1_00004,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00004|content,85,dstc10-task5.1_00004,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00004|grammar,95,dstc10-task5.1_00004,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00004|relevance,90,dstc10-task5.1_00004,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00005|appropriateness,90,dstc10-task5.1_00005,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00005|content,85,dstc10-task5.1_00005,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00005|grammar,95,dstc10-task5.1_00005,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00005|relevance,90,dstc10-task5.1_00005,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00006|appropriateness,90,dstc10-task5.1_00006,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00006|content,85,dstc10-task5.1_00006,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00006|grammar,95,dstc10-task5.1_00006,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00006|relevance,90,dstc10-task5.1_00006,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00007|appropriateness,80,dstc10-task5.1_00007,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00007|content,85,dstc10-task5.1_00007,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00007|grammar,90,dstc10-task5.1_00007,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00007|relevance,75,dstc10-task5.1_00007,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00008|appropriateness,100,dstc10-task5.1_00008,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00008|content,100,dstc10-task5.1_00008,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00008|grammar,100,dstc10-task5.1_00008,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00008|relevance,100,dstc10-task5.1_00008,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00009|appropriateness,90,dstc10-task5.1_00009,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00009|content,85,dstc10-task5.1_00009,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00009|grammar,95,dstc10-task5.1_00009,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00009|relevance,90,dstc10-task5.1_00009,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00010|appropriateness,90,dstc10-task5.1_00010,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00010|content,85,dstc10-task5.1_00010,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00010|grammar,95,dstc10-task5.1_00010,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00010|relevance,90,dstc10-task5.1_00010,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00011|appropriateness,95,dstc10-task5.1_00011,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00011|content,90,dstc10-task5.1_00011,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00011|grammar,100,dstc10-task5.1_00011,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00011|relevance,90,dstc10-task5.1_00011,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00012|appropriateness,80,dstc10-task5.1_00012,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00012|content,85,dstc10-task5.1_00012,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00012|grammar,90,dstc10-task5.1_00012,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00012|relevance,75,dstc10-task5.1_00012,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00013|appropriateness,80,dstc10-task5.1_00013,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00013|content,85,dstc10-task5.1_00013,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00013|grammar,90,dstc10-task5.1_00013,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00013|relevance,75,dstc10-task5.1_00013,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00014|appropriateness,90,dstc10-task5.1_00014,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00014|content,95,dstc10-task5.1_00014,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00014|grammar,100,dstc10-task5.1_00014,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00014|relevance,90,dstc10-task5.1_00014,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00015|appropriateness,90,dstc10-task5.1_00015,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00015|content,85,dstc10-task5.1_00015,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00015|grammar,95,dstc10-task5.1_00015,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00015|relevance,90,dstc10-task5.1_00015,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00016|appropriateness,90,dstc10-task5.1_00016,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00016|content,85,dstc10-task5.1_00016,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00016|grammar,95,dstc10-task5.1_00016,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00016|relevance,90,dstc10-task5.1_00016,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00017|appropriateness,95,dstc10-task5.1_00017,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00017|content,90,dstc10-task5.1_00017,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00017|grammar,100,dstc10-task5.1_00017,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00017|relevance,90,dstc10-task5.1_00017,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00018|appropriateness,90,dstc10-task5.1_00018,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00018|content,85,dstc10-task5.1_00018,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00018|grammar,95,dstc10-task5.1_00018,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00018|relevance,90,dstc10-task5.1_00018,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00019|appropriateness,80,dstc10-task5.1_00019,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 70
+}"
+dstc10-task5.1_00019|content,85,dstc10-task5.1_00019,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 70
+}"
+dstc10-task5.1_00019|grammar,90,dstc10-task5.1_00019,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 70
+}"
+dstc10-task5.1_00019|relevance,70,dstc10-task5.1_00019,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 70
+}"
+dstc10-task5.1_00020|appropriateness,90,dstc10-task5.1_00020,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00020|content,85,dstc10-task5.1_00020,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00020|grammar,95,dstc10-task5.1_00020,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00020|relevance,80,dstc10-task5.1_00020,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00021|appropriateness,95,dstc10-task5.1_00021,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00021|content,90,dstc10-task5.1_00021,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00021|grammar,100,dstc10-task5.1_00021,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00021|relevance,90,dstc10-task5.1_00021,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00022|appropriateness,80,dstc10-task5.1_00022,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00022|content,70,dstc10-task5.1_00022,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00022|grammar,90,dstc10-task5.1_00022,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00022|relevance,85,dstc10-task5.1_00022,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00023|appropriateness,95,dstc10-task5.1_00023,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00023|content,90,dstc10-task5.1_00023,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00023|grammar,100,dstc10-task5.1_00023,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00023|relevance,90,dstc10-task5.1_00023,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00024|appropriateness,80,dstc10-task5.1_00024,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00024|content,70,dstc10-task5.1_00024,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00024|grammar,90,dstc10-task5.1_00024,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00024|relevance,85,dstc10-task5.1_00024,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00025|appropriateness,95,dstc10-task5.1_00025,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00025|content,90,dstc10-task5.1_00025,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00025|grammar,100,dstc10-task5.1_00025,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00025|relevance,90,dstc10-task5.1_00025,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00026|appropriateness,95,dstc10-task5.1_00026,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00026|content,90,dstc10-task5.1_00026,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00026|grammar,100,dstc10-task5.1_00026,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00026|relevance,100,dstc10-task5.1_00026,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00027|appropriateness,90,dstc10-task5.1_00027,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00027|content,85,dstc10-task5.1_00027,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00027|grammar,95,dstc10-task5.1_00027,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00027|relevance,90,dstc10-task5.1_00027,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00028|appropriateness,100,dstc10-task5.1_00028,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00028|content,100,dstc10-task5.1_00028,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00028|grammar,100,dstc10-task5.1_00028,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00028|relevance,100,dstc10-task5.1_00028,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00029|appropriateness,90,dstc10-task5.1_00029,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00029|content,85,dstc10-task5.1_00029,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00029|grammar,95,dstc10-task5.1_00029,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00029|relevance,90,dstc10-task5.1_00029,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00030|appropriateness,80,dstc10-task5.1_00030,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00030|content,70,dstc10-task5.1_00030,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00030|grammar,90,dstc10-task5.1_00030,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00030|relevance,85,dstc10-task5.1_00030,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00031|appropriateness,90,dstc10-task5.1_00031,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00031|content,85,dstc10-task5.1_00031,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00031|grammar,95,dstc10-task5.1_00031,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00031|relevance,90,dstc10-task5.1_00031,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00032|appropriateness,95,dstc10-task5.1_00032,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00032|content,90,dstc10-task5.1_00032,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00032|grammar,100,dstc10-task5.1_00032,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00032|relevance,90,dstc10-task5.1_00032,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00033|appropriateness,80,dstc10-task5.1_00033,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00033|content,70,dstc10-task5.1_00033,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00033|grammar,90,dstc10-task5.1_00033,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00033|relevance,60,dstc10-task5.1_00033,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00034|appropriateness,90,dstc10-task5.1_00034,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00034|content,85,dstc10-task5.1_00034,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00034|grammar,95,dstc10-task5.1_00034,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00034|relevance,90,dstc10-task5.1_00034,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00035|appropriateness,95,dstc10-task5.1_00035,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00035|content,90,dstc10-task5.1_00035,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00035|grammar,100,dstc10-task5.1_00035,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00035|relevance,90,dstc10-task5.1_00035,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00036|appropriateness,100,dstc10-task5.1_00036,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00036|content,100,dstc10-task5.1_00036,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00036|grammar,100,dstc10-task5.1_00036,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00036|relevance,100,dstc10-task5.1_00036,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00037|appropriateness,80,dstc10-task5.1_00037,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00037|content,85,dstc10-task5.1_00037,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00037|grammar,90,dstc10-task5.1_00037,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00037|relevance,95,dstc10-task5.1_00037,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00038|appropriateness,80,dstc10-task5.1_00038,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00038|content,70,dstc10-task5.1_00038,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00038|grammar,90,dstc10-task5.1_00038,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00038|relevance,85,dstc10-task5.1_00038,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00039|appropriateness,90,dstc10-task5.1_00039,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00039|content,85,dstc10-task5.1_00039,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00039|grammar,95,dstc10-task5.1_00039,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00039|relevance,90,dstc10-task5.1_00039,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00040|appropriateness,80,dstc10-task5.1_00040,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 70
+}"
+dstc10-task5.1_00040|content,85,dstc10-task5.1_00040,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 70
+}"
+dstc10-task5.1_00040|grammar,90,dstc10-task5.1_00040,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 70
+}"
+dstc10-task5.1_00040|relevance,70,dstc10-task5.1_00040,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 70
+}"
+dstc10-task5.1_00041|appropriateness,80,dstc10-task5.1_00041,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00041|content,70,dstc10-task5.1_00041,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00041|grammar,90,dstc10-task5.1_00041,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00041|relevance,60,dstc10-task5.1_00041,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00042|appropriateness,90,dstc10-task5.1_00042,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00042|content,85,dstc10-task5.1_00042,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00042|grammar,95,dstc10-task5.1_00042,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00042|relevance,90,dstc10-task5.1_00042,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00043|appropriateness,80,dstc10-task5.1_00043,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00043|content,90,dstc10-task5.1_00043,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00043|grammar,95,dstc10-task5.1_00043,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00043|relevance,85,dstc10-task5.1_00043,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00044|appropriateness,80,dstc10-task5.1_00044,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00044|content,85,dstc10-task5.1_00044,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00044|grammar,90,dstc10-task5.1_00044,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00044|relevance,95,dstc10-task5.1_00044,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00045|appropriateness,90,dstc10-task5.1_00045,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00045|content,85,dstc10-task5.1_00045,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00045|grammar,95,dstc10-task5.1_00045,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00045|relevance,80,dstc10-task5.1_00045,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00046|appropriateness,95,dstc10-task5.1_00046,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00046|content,90,dstc10-task5.1_00046,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00046|grammar,100,dstc10-task5.1_00046,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00046|relevance,100,dstc10-task5.1_00046,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00047|appropriateness,95,dstc10-task5.1_00047,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00047|content,90,dstc10-task5.1_00047,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00047|grammar,100,dstc10-task5.1_00047,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00047|relevance,100,dstc10-task5.1_00047,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00048|appropriateness,80,dstc10-task5.1_00048,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00048|content,90,dstc10-task5.1_00048,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00048|grammar,95,dstc10-task5.1_00048,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00048|relevance,85,dstc10-task5.1_00048,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00049|appropriateness,80,dstc10-task5.1_00049,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00049|content,70,dstc10-task5.1_00049,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00049|grammar,90,dstc10-task5.1_00049,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00049|relevance,60,dstc10-task5.1_00049,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00050|appropriateness,90,dstc10-task5.1_00050,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00050|content,85,dstc10-task5.1_00050,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00050|grammar,95,dstc10-task5.1_00050,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00050|relevance,90,dstc10-task5.1_00050,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00051|appropriateness,90,dstc10-task5.1_00051,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00051|content,85,dstc10-task5.1_00051,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00051|grammar,95,dstc10-task5.1_00051,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00051|relevance,90,dstc10-task5.1_00051,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00052|appropriateness,95,dstc10-task5.1_00052,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00052|content,90,dstc10-task5.1_00052,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00052|grammar,100,dstc10-task5.1_00052,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00052|relevance,100,dstc10-task5.1_00052,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00053|appropriateness,50,dstc10-task5.1_00053,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00053|content,50,dstc10-task5.1_00053,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00053|grammar,100,dstc10-task5.1_00053,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00053|relevance,0,dstc10-task5.1_00053,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00054|appropriateness,90,dstc10-task5.1_00054,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00054|content,85,dstc10-task5.1_00054,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00054|grammar,95,dstc10-task5.1_00054,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00054|relevance,90,dstc10-task5.1_00054,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00055|appropriateness,90,dstc10-task5.1_00055,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00055|content,85,dstc10-task5.1_00055,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00055|grammar,95,dstc10-task5.1_00055,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00055|relevance,90,dstc10-task5.1_00055,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00056|appropriateness,95,dstc10-task5.1_00056,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00056|content,90,dstc10-task5.1_00056,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00056|grammar,100,dstc10-task5.1_00056,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00056|relevance,100,dstc10-task5.1_00056,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00057|appropriateness,90,dstc10-task5.1_00057,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00057|content,85,dstc10-task5.1_00057,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00057|grammar,95,dstc10-task5.1_00057,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00057|relevance,90,dstc10-task5.1_00057,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00058|appropriateness,95,dstc10-task5.1_00058,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00058|content,90,dstc10-task5.1_00058,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00058|grammar,100,dstc10-task5.1_00058,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00058|relevance,100,dstc10-task5.1_00058,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00059|appropriateness,95,dstc10-task5.1_00059,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00059|content,90,dstc10-task5.1_00059,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00059|grammar,100,dstc10-task5.1_00059,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00059|relevance,100,dstc10-task5.1_00059,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00060|appropriateness,80,dstc10-task5.1_00060,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00060|content,70,dstc10-task5.1_00060,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00060|grammar,90,dstc10-task5.1_00060,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00060|relevance,60,dstc10-task5.1_00060,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00061|appropriateness,90,dstc10-task5.1_00061,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00061|content,85,dstc10-task5.1_00061,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00061|grammar,95,dstc10-task5.1_00061,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00061|relevance,90,dstc10-task5.1_00061,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00062|appropriateness,90,dstc10-task5.1_00062,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00062|content,85,dstc10-task5.1_00062,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00062|grammar,95,dstc10-task5.1_00062,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00062|relevance,90,dstc10-task5.1_00062,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00063|appropriateness,90,dstc10-task5.1_00063,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00063|content,95,dstc10-task5.1_00063,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00063|grammar,100,dstc10-task5.1_00063,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00063|relevance,85,dstc10-task5.1_00063,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00064|appropriateness,90,dstc10-task5.1_00064,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00064|content,85,dstc10-task5.1_00064,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00064|grammar,95,dstc10-task5.1_00064,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00064|relevance,90,dstc10-task5.1_00064,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00065|appropriateness,80,dstc10-task5.1_00065,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00065|content,70,dstc10-task5.1_00065,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00065|grammar,90,dstc10-task5.1_00065,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00065|relevance,85,dstc10-task5.1_00065,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00066|appropriateness,100,dstc10-task5.1_00066,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00066|content,100,dstc10-task5.1_00066,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00066|grammar,100,dstc10-task5.1_00066,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00066|relevance,100,dstc10-task5.1_00066,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00067|appropriateness,80,dstc10-task5.1_00067,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00067|content,70,dstc10-task5.1_00067,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00067|grammar,90,dstc10-task5.1_00067,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00067|relevance,60,dstc10-task5.1_00067,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00068|appropriateness,95,dstc10-task5.1_00068,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00068|content,90,dstc10-task5.1_00068,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00068|grammar,100,dstc10-task5.1_00068,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00068|relevance,100,dstc10-task5.1_00068,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00069|appropriateness,95,dstc10-task5.1_00069,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00069|content,90,dstc10-task5.1_00069,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00069|grammar,100,dstc10-task5.1_00069,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00069|relevance,100,dstc10-task5.1_00069,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00070|appropriateness,80,dstc10-task5.1_00070,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00070|content,70,dstc10-task5.1_00070,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00070|grammar,90,dstc10-task5.1_00070,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00070|relevance,85,dstc10-task5.1_00070,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00071|appropriateness,100,dstc10-task5.1_00071,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00071|content,100,dstc10-task5.1_00071,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00071|grammar,100,dstc10-task5.1_00071,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00071|relevance,100,dstc10-task5.1_00071,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00072|appropriateness,90,dstc10-task5.1_00072,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00072|content,85,dstc10-task5.1_00072,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00072|grammar,95,dstc10-task5.1_00072,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00072|relevance,90,dstc10-task5.1_00072,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00073|appropriateness,90,dstc10-task5.1_00073,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00073|content,85,dstc10-task5.1_00073,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00073|grammar,95,dstc10-task5.1_00073,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00073|relevance,90,dstc10-task5.1_00073,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00074|appropriateness,95,dstc10-task5.1_00074,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00074|content,90,dstc10-task5.1_00074,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00074|grammar,100,dstc10-task5.1_00074,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00074|relevance,90,dstc10-task5.1_00074,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00075|appropriateness,90,dstc10-task5.1_00075,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 80
+}"
+dstc10-task5.1_00075|content,85,dstc10-task5.1_00075,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 80
+}"
+dstc10-task5.1_00075|grammar,95,dstc10-task5.1_00075,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 80
+}"
+dstc10-task5.1_00075|relevance,80,dstc10-task5.1_00075,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 80
+}"
+dstc10-task5.1_00076|appropriateness,80,dstc10-task5.1_00076,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00076|content,70,dstc10-task5.1_00076,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00076|grammar,90,dstc10-task5.1_00076,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00076|relevance,60,dstc10-task5.1_00076,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00077|appropriateness,80,dstc10-task5.1_00077,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00077|content,90,dstc10-task5.1_00077,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00077|grammar,95,dstc10-task5.1_00077,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00077|relevance,85,dstc10-task5.1_00077,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00078|appropriateness,90,dstc10-task5.1_00078,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00078|content,85,dstc10-task5.1_00078,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00078|grammar,95,dstc10-task5.1_00078,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00078|relevance,90,dstc10-task5.1_00078,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00079|appropriateness,80,dstc10-task5.1_00079,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00079|content,85,dstc10-task5.1_00079,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00079|grammar,90,dstc10-task5.1_00079,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00079|relevance,75,dstc10-task5.1_00079,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00080|appropriateness,80,dstc10-task5.1_00080,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00080|content,85,dstc10-task5.1_00080,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00080|grammar,90,dstc10-task5.1_00080,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00080|relevance,75,dstc10-task5.1_00080,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00081|appropriateness,95,dstc10-task5.1_00081,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00081|content,90,dstc10-task5.1_00081,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00081|grammar,100,dstc10-task5.1_00081,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00081|relevance,95,dstc10-task5.1_00081,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00082|appropriateness,95,dstc10-task5.1_00082,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00082|content,90,dstc10-task5.1_00082,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00082|grammar,100,dstc10-task5.1_00082,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00082|relevance,90,dstc10-task5.1_00082,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00083|appropriateness,90,dstc10-task5.1_00083,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00083|content,85,dstc10-task5.1_00083,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00083|grammar,95,dstc10-task5.1_00083,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00083|relevance,90,dstc10-task5.1_00083,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00084|appropriateness,95,dstc10-task5.1_00084,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00084|content,90,dstc10-task5.1_00084,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00084|grammar,100,dstc10-task5.1_00084,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00084|relevance,100,dstc10-task5.1_00084,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00085|appropriateness,95,dstc10-task5.1_00085,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00085|content,90,dstc10-task5.1_00085,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00085|grammar,100,dstc10-task5.1_00085,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00085|relevance,90,dstc10-task5.1_00085,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00086|appropriateness,90,dstc10-task5.1_00086,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00086|content,85,dstc10-task5.1_00086,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00086|grammar,95,dstc10-task5.1_00086,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00086|relevance,90,dstc10-task5.1_00086,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00087|appropriateness,90,dstc10-task5.1_00087,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00087|content,85,dstc10-task5.1_00087,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00087|grammar,95,dstc10-task5.1_00087,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00087|relevance,90,dstc10-task5.1_00087,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00088|appropriateness,95,dstc10-task5.1_00088,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00088|content,90,dstc10-task5.1_00088,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00088|grammar,100,dstc10-task5.1_00088,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00088|relevance,85,dstc10-task5.1_00088,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00089|appropriateness,95,dstc10-task5.1_00089,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00089|content,90,dstc10-task5.1_00089,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00089|grammar,100,dstc10-task5.1_00089,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00089|relevance,100,dstc10-task5.1_00089,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00090|appropriateness,90,dstc10-task5.1_00090,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00090|content,85,dstc10-task5.1_00090,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00090|grammar,95,dstc10-task5.1_00090,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00090|relevance,90,dstc10-task5.1_00090,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00091|appropriateness,90,dstc10-task5.1_00091,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00091|content,85,dstc10-task5.1_00091,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00091|grammar,95,dstc10-task5.1_00091,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00091|relevance,90,dstc10-task5.1_00091,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00092|appropriateness,100,dstc10-task5.1_00092,"
+{
+  ""appropriateness"": 100,
+  ""content"": 100,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00092|content,100,dstc10-task5.1_00092,"
+{
+  ""appropriateness"": 100,
+  ""content"": 100,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00092|grammar,100,dstc10-task5.1_00092,"
+{
+  ""appropriateness"": 100,
+  ""content"": 100,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00092|relevance,100,dstc10-task5.1_00092,"
+{
+  ""appropriateness"": 100,
+  ""content"": 100,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00093|appropriateness,90,dstc10-task5.1_00093,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00093|content,85,dstc10-task5.1_00093,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00093|grammar,95,dstc10-task5.1_00093,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00093|relevance,90,dstc10-task5.1_00093,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00094|appropriateness,90,dstc10-task5.1_00094,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00094|content,85,dstc10-task5.1_00094,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00094|grammar,95,dstc10-task5.1_00094,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00094|relevance,90,dstc10-task5.1_00094,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00095|appropriateness,100,dstc10-task5.1_00095,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00095|content,100,dstc10-task5.1_00095,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00095|grammar,100,dstc10-task5.1_00095,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00095|relevance,100,dstc10-task5.1_00095,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00096|appropriateness,90,dstc10-task5.1_00096,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00096|content,85,dstc10-task5.1_00096,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00096|grammar,95,dstc10-task5.1_00096,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00096|relevance,80,dstc10-task5.1_00096,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00097|appropriateness,100,dstc10-task5.1_00097,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00097|content,100,dstc10-task5.1_00097,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00097|grammar,100,dstc10-task5.1_00097,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00097|relevance,100,dstc10-task5.1_00097,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00098|appropriateness,90,dstc10-task5.1_00098,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00098|content,85,dstc10-task5.1_00098,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00098|grammar,95,dstc10-task5.1_00098,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00098|relevance,90,dstc10-task5.1_00098,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00099|appropriateness,90,dstc10-task5.1_00099,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00099|content,85,dstc10-task5.1_00099,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00099|grammar,95,dstc10-task5.1_00099,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00099|relevance,90,dstc10-task5.1_00099,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00100|appropriateness,90,dstc10-task5.1_00100,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00100|content,85,dstc10-task5.1_00100,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00100|grammar,95,dstc10-task5.1_00100,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00100|relevance,90,dstc10-task5.1_00100,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00101|appropriateness,90,dstc10-task5.1_00101,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00101|content,85,dstc10-task5.1_00101,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00101|grammar,95,dstc10-task5.1_00101,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00101|relevance,90,dstc10-task5.1_00101,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00102|appropriateness,95,dstc10-task5.1_00102,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00102|content,90,dstc10-task5.1_00102,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00102|grammar,100,dstc10-task5.1_00102,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00102|relevance,100,dstc10-task5.1_00102,"
+{
+  ""appropriateness"": 95, 
+  ""content"": 90,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00103|appropriateness,90,dstc10-task5.1_00103,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00103|content,85,dstc10-task5.1_00103,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00103|grammar,95,dstc10-task5.1_00103,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00103|relevance,90,dstc10-task5.1_00103,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00104|appropriateness,80,dstc10-task5.1_00104,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 95}"
+dstc10-task5.1_00104|content,85,dstc10-task5.1_00104,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 95}"
+dstc10-task5.1_00104|grammar,90,dstc10-task5.1_00104,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 95}"
+dstc10-task5.1_00104|relevance,95,dstc10-task5.1_00104,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 95}"
+dstc10-task5.1_00105|appropriateness,90,dstc10-task5.1_00105,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00105|content,85,dstc10-task5.1_00105,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00105|grammar,95,dstc10-task5.1_00105,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00105|relevance,80,dstc10-task5.1_00105,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00106|appropriateness,80,dstc10-task5.1_00106,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00106|content,70,dstc10-task5.1_00106,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00106|grammar,90,dstc10-task5.1_00106,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00106|relevance,60,dstc10-task5.1_00106,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00107|appropriateness,90,dstc10-task5.1_00107,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00107|content,85,dstc10-task5.1_00107,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00107|grammar,95,dstc10-task5.1_00107,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00107|relevance,80,dstc10-task5.1_00107,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00108|appropriateness,95,dstc10-task5.1_00108,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00108|content,90,dstc10-task5.1_00108,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00108|grammar,100,dstc10-task5.1_00108,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00108|relevance,100,dstc10-task5.1_00108,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00109|appropriateness,50,dstc10-task5.1_00109,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00109|content,50,dstc10-task5.1_00109,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00109|grammar,100,dstc10-task5.1_00109,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00109|relevance,0,dstc10-task5.1_00109,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00110|appropriateness,90,dstc10-task5.1_00110,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00110|content,85,dstc10-task5.1_00110,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00110|grammar,95,dstc10-task5.1_00110,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00110|relevance,90,dstc10-task5.1_00110,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00111|appropriateness,90,dstc10-task5.1_00111,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00111|content,85,dstc10-task5.1_00111,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00111|grammar,95,dstc10-task5.1_00111,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00111|relevance,80,dstc10-task5.1_00111,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00112|appropriateness,90,dstc10-task5.1_00112,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00112|content,85,dstc10-task5.1_00112,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00112|grammar,95,dstc10-task5.1_00112,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00112|relevance,90,dstc10-task5.1_00112,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00113|appropriateness,80,dstc10-task5.1_00113,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00113|content,90,dstc10-task5.1_00113,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00113|grammar,95,dstc10-task5.1_00113,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00113|relevance,85,dstc10-task5.1_00113,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00114|appropriateness,90,dstc10-task5.1_00114,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00114|content,95,dstc10-task5.1_00114,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00114|grammar,100,dstc10-task5.1_00114,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00114|relevance,100,dstc10-task5.1_00114,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00115|appropriateness,90,dstc10-task5.1_00115,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00115|content,95,dstc10-task5.1_00115,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00115|grammar,100,dstc10-task5.1_00115,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00115|relevance,100,dstc10-task5.1_00115,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00116|appropriateness,80,dstc10-task5.1_00116,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00116|content,90,dstc10-task5.1_00116,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00116|grammar,95,dstc10-task5.1_00116,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00116|relevance,85,dstc10-task5.1_00116,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00117|appropriateness,90,dstc10-task5.1_00117,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00117|content,85,dstc10-task5.1_00117,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00117|grammar,95,dstc10-task5.1_00117,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00117|relevance,90,dstc10-task5.1_00117,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00118|appropriateness,80,dstc10-task5.1_00118,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00118|content,85,dstc10-task5.1_00118,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00118|grammar,90,dstc10-task5.1_00118,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00118|relevance,75,dstc10-task5.1_00118,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00119|appropriateness,90,dstc10-task5.1_00119,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00119|content,85,dstc10-task5.1_00119,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00119|grammar,95,dstc10-task5.1_00119,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00119|relevance,90,dstc10-task5.1_00119,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00120|appropriateness,100,dstc10-task5.1_00120,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00120|content,100,dstc10-task5.1_00120,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00120|grammar,100,dstc10-task5.1_00120,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00120|relevance,100,dstc10-task5.1_00120,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00121|appropriateness,80,dstc10-task5.1_00121,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00121|content,70,dstc10-task5.1_00121,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00121|grammar,90,dstc10-task5.1_00121,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00121|relevance,85,dstc10-task5.1_00121,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00122|appropriateness,90,dstc10-task5.1_00122,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00122|content,85,dstc10-task5.1_00122,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00122|grammar,95,dstc10-task5.1_00122,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00122|relevance,90,dstc10-task5.1_00122,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00123|appropriateness,80,dstc10-task5.1_00123,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00123|content,70,dstc10-task5.1_00123,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00123|grammar,90,dstc10-task5.1_00123,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00123|relevance,60,dstc10-task5.1_00123,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00124|appropriateness,100,dstc10-task5.1_00124,"
+{
+  ""appropriateness"": 100,
+  ""content"": 100,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00124|content,100,dstc10-task5.1_00124,"
+{
+  ""appropriateness"": 100,
+  ""content"": 100,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00124|grammar,100,dstc10-task5.1_00124,"
+{
+  ""appropriateness"": 100,
+  ""content"": 100,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00124|relevance,100,dstc10-task5.1_00124,"
+{
+  ""appropriateness"": 100,
+  ""content"": 100,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00125|appropriateness,80,dstc10-task5.1_00125,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00125|content,70,dstc10-task5.1_00125,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00125|grammar,90,dstc10-task5.1_00125,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00125|relevance,60,dstc10-task5.1_00125,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00126|appropriateness,80,dstc10-task5.1_00126,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00126|content,90,dstc10-task5.1_00126,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00126|grammar,95,dstc10-task5.1_00126,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00126|relevance,85,dstc10-task5.1_00126,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00127|appropriateness,80,dstc10-task5.1_00127,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00127|content,70,dstc10-task5.1_00127,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00127|grammar,90,dstc10-task5.1_00127,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00127|relevance,85,dstc10-task5.1_00127,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00128|appropriateness,90,dstc10-task5.1_00128,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00128|content,85,dstc10-task5.1_00128,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00128|grammar,95,dstc10-task5.1_00128,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00128|relevance,90,dstc10-task5.1_00128,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00129|appropriateness,90,dstc10-task5.1_00129,"
+{
+  ""appropriateness"": 90,
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00129|content,95,dstc10-task5.1_00129,"
+{
+  ""appropriateness"": 90,
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00129|grammar,100,dstc10-task5.1_00129,"
+{
+  ""appropriateness"": 90,
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00129|relevance,100,dstc10-task5.1_00129,"
+{
+  ""appropriateness"": 90,
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00130|appropriateness,90,dstc10-task5.1_00130,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00130|content,85,dstc10-task5.1_00130,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00130|grammar,95,dstc10-task5.1_00130,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00130|relevance,90,dstc10-task5.1_00130,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00131|appropriateness,80,dstc10-task5.1_00131,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00131|content,85,dstc10-task5.1_00131,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00131|grammar,90,dstc10-task5.1_00131,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00131|relevance,75,dstc10-task5.1_00131,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00132|appropriateness,80,dstc10-task5.1_00132,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00132|content,70,dstc10-task5.1_00132,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00132|grammar,90,dstc10-task5.1_00132,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00132|relevance,85,dstc10-task5.1_00132,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00133|appropriateness,90,dstc10-task5.1_00133,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00133|content,85,dstc10-task5.1_00133,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00133|grammar,95,dstc10-task5.1_00133,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00133|relevance,90,dstc10-task5.1_00133,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00134|appropriateness,95,dstc10-task5.1_00134,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00134|content,90,dstc10-task5.1_00134,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00134|grammar,100,dstc10-task5.1_00134,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00134|relevance,100,dstc10-task5.1_00134,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00135|appropriateness,90,dstc10-task5.1_00135,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00135|content,85,dstc10-task5.1_00135,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00135|grammar,95,dstc10-task5.1_00135,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00135|relevance,90,dstc10-task5.1_00135,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00136|appropriateness,90,dstc10-task5.1_00136,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00136|content,85,dstc10-task5.1_00136,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00136|grammar,95,dstc10-task5.1_00136,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00136|relevance,90,dstc10-task5.1_00136,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00137|appropriateness,80,dstc10-task5.1_00137,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00137|content,70,dstc10-task5.1_00137,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00137|grammar,90,dstc10-task5.1_00137,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00137|relevance,60,dstc10-task5.1_00137,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00138|appropriateness,95,dstc10-task5.1_00138,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00138|content,90,dstc10-task5.1_00138,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00138|grammar,100,dstc10-task5.1_00138,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00138|relevance,100,dstc10-task5.1_00138,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00139|appropriateness,90,dstc10-task5.1_00139,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00139|content,85,dstc10-task5.1_00139,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00139|grammar,95,dstc10-task5.1_00139,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00139|relevance,90,dstc10-task5.1_00139,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00140|appropriateness,80,dstc10-task5.1_00140,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00140|content,70,dstc10-task5.1_00140,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00140|grammar,90,dstc10-task5.1_00140,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00140|relevance,85,dstc10-task5.1_00140,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00141|appropriateness,90,dstc10-task5.1_00141,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00141|content,85,dstc10-task5.1_00141,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00141|grammar,95,dstc10-task5.1_00141,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00141|relevance,80,dstc10-task5.1_00141,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00142|appropriateness,90,dstc10-task5.1_00142,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00142|content,85,dstc10-task5.1_00142,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00142|grammar,95,dstc10-task5.1_00142,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00142|relevance,90,dstc10-task5.1_00142,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00143|appropriateness,90,dstc10-task5.1_00143,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00143|content,85,dstc10-task5.1_00143,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00143|grammar,95,dstc10-task5.1_00143,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00143|relevance,90,dstc10-task5.1_00143,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00144|appropriateness,90,dstc10-task5.1_00144,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00144|content,95,dstc10-task5.1_00144,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00144|grammar,100,dstc10-task5.1_00144,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00144|relevance,100,dstc10-task5.1_00144,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00145|appropriateness,80,dstc10-task5.1_00145,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00145|content,90,dstc10-task5.1_00145,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00145|grammar,95,dstc10-task5.1_00145,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00145|relevance,85,dstc10-task5.1_00145,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00146|appropriateness,90,dstc10-task5.1_00146,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00146|content,85,dstc10-task5.1_00146,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00146|grammar,95,dstc10-task5.1_00146,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00146|relevance,90,dstc10-task5.1_00146,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00147|appropriateness,90,dstc10-task5.1_00147,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00147|content,85,dstc10-task5.1_00147,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00147|grammar,95,dstc10-task5.1_00147,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00147|relevance,90,dstc10-task5.1_00147,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00148|appropriateness,90,dstc10-task5.1_00148,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00148|content,85,dstc10-task5.1_00148,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00148|grammar,95,dstc10-task5.1_00148,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00148|relevance,90,dstc10-task5.1_00148,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00149|appropriateness,90,dstc10-task5.1_00149,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00149|content,85,dstc10-task5.1_00149,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00149|grammar,95,dstc10-task5.1_00149,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00149|relevance,90,dstc10-task5.1_00149,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00150|appropriateness,90,dstc10-task5.1_00150,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00150|content,85,dstc10-task5.1_00150,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00150|grammar,95,dstc10-task5.1_00150,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00150|relevance,90,dstc10-task5.1_00150,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00151|appropriateness,80,dstc10-task5.1_00151,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00151|content,70,dstc10-task5.1_00151,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00151|grammar,90,dstc10-task5.1_00151,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00151|relevance,85,dstc10-task5.1_00151,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00152|appropriateness,90,dstc10-task5.1_00152,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00152|content,85,dstc10-task5.1_00152,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00152|grammar,95,dstc10-task5.1_00152,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00152|relevance,90,dstc10-task5.1_00152,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00153|appropriateness,90,dstc10-task5.1_00153,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00153|content,85,dstc10-task5.1_00153,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00153|grammar,95,dstc10-task5.1_00153,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00153|relevance,90,dstc10-task5.1_00153,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00154|appropriateness,90,dstc10-task5.1_00154,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00154|content,95,dstc10-task5.1_00154,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00154|grammar,100,dstc10-task5.1_00154,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00154|relevance,90,dstc10-task5.1_00154,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00155|appropriateness,90,dstc10-task5.1_00155,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00155|content,95,dstc10-task5.1_00155,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00155|grammar,100,dstc10-task5.1_00155,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00155|relevance,90,dstc10-task5.1_00155,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00156|appropriateness,90,dstc10-task5.1_00156,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00156|content,85,dstc10-task5.1_00156,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00156|grammar,95,dstc10-task5.1_00156,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00156|relevance,90,dstc10-task5.1_00156,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00157|appropriateness,90,dstc10-task5.1_00157,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00157|content,85,dstc10-task5.1_00157,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00157|grammar,95,dstc10-task5.1_00157,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00157|relevance,90,dstc10-task5.1_00157,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00158|appropriateness,80,dstc10-task5.1_00158,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00158|content,70,dstc10-task5.1_00158,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00158|grammar,90,dstc10-task5.1_00158,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00158|relevance,85,dstc10-task5.1_00158,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00159|appropriateness,80,dstc10-task5.1_00159,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00159|content,70,dstc10-task5.1_00159,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00159|grammar,90,dstc10-task5.1_00159,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00159|relevance,85,dstc10-task5.1_00159,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00160|appropriateness,80,dstc10-task5.1_00160,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00160|content,70,dstc10-task5.1_00160,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00160|grammar,90,dstc10-task5.1_00160,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00160|relevance,85,dstc10-task5.1_00160,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00161|appropriateness,95,dstc10-task5.1_00161,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00161|content,90,dstc10-task5.1_00161,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00161|grammar,100,dstc10-task5.1_00161,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00161|relevance,90,dstc10-task5.1_00161,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00162|appropriateness,80,dstc10-task5.1_00162,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00162|content,70,dstc10-task5.1_00162,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00162|grammar,90,dstc10-task5.1_00162,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00162|relevance,60,dstc10-task5.1_00162,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00163|appropriateness,100,dstc10-task5.1_00163,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00163|content,100,dstc10-task5.1_00163,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00163|grammar,100,dstc10-task5.1_00163,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00163|relevance,100,dstc10-task5.1_00163,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00164|appropriateness,90,dstc10-task5.1_00164,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00164|content,85,dstc10-task5.1_00164,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00164|grammar,95,dstc10-task5.1_00164,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00164|relevance,90,dstc10-task5.1_00164,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00165|appropriateness,95,dstc10-task5.1_00165,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00165|content,90,dstc10-task5.1_00165,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00165|grammar,100,dstc10-task5.1_00165,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00165|relevance,90,dstc10-task5.1_00165,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00166|appropriateness,90,dstc10-task5.1_00166,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00166|content,85,dstc10-task5.1_00166,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00166|grammar,95,dstc10-task5.1_00166,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00166|relevance,90,dstc10-task5.1_00166,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00167|appropriateness,90,dstc10-task5.1_00167,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00167|content,85,dstc10-task5.1_00167,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00167|grammar,95,dstc10-task5.1_00167,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00167|relevance,90,dstc10-task5.1_00167,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00168|appropriateness,90,dstc10-task5.1_00168,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00168|content,95,dstc10-task5.1_00168,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00168|grammar,100,dstc10-task5.1_00168,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00168|relevance,100,dstc10-task5.1_00168,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00169|appropriateness,95,dstc10-task5.1_00169,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00169|content,90,dstc10-task5.1_00169,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00169|grammar,100,dstc10-task5.1_00169,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00169|relevance,100,dstc10-task5.1_00169,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00170|appropriateness,90,dstc10-task5.1_00170,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00170|content,85,dstc10-task5.1_00170,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00170|grammar,95,dstc10-task5.1_00170,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00170|relevance,80,dstc10-task5.1_00170,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00171|appropriateness,90,dstc10-task5.1_00171,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00171|content,85,dstc10-task5.1_00171,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00171|grammar,95,dstc10-task5.1_00171,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00171|relevance,90,dstc10-task5.1_00171,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00172|appropriateness,90,dstc10-task5.1_00172,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00172|content,85,dstc10-task5.1_00172,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00172|grammar,95,dstc10-task5.1_00172,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00172|relevance,80,dstc10-task5.1_00172,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00173|appropriateness,100,dstc10-task5.1_00173,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00173|content,100,dstc10-task5.1_00173,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00173|grammar,100,dstc10-task5.1_00173,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00173|relevance,100,dstc10-task5.1_00173,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00174|appropriateness,95,dstc10-task5.1_00174,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00174|content,90,dstc10-task5.1_00174,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00174|grammar,100,dstc10-task5.1_00174,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00174|relevance,90,dstc10-task5.1_00174,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00175|appropriateness,90,dstc10-task5.1_00175,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00175|content,85,dstc10-task5.1_00175,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00175|grammar,95,dstc10-task5.1_00175,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00175|relevance,90,dstc10-task5.1_00175,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00176|appropriateness,80,dstc10-task5.1_00176,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 90}"
+dstc10-task5.1_00176|content,70,dstc10-task5.1_00176,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 90}"
+dstc10-task5.1_00176|grammar,90,dstc10-task5.1_00176,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 90}"
+dstc10-task5.1_00176|relevance,90,dstc10-task5.1_00176,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 90}"
+dstc10-task5.1_00177|appropriateness,100,dstc10-task5.1_00177,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00177|content,100,dstc10-task5.1_00177,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00177|grammar,100,dstc10-task5.1_00177,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00177|relevance,100,dstc10-task5.1_00177,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00178|appropriateness,90,dstc10-task5.1_00178,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00178|content,85,dstc10-task5.1_00178,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00178|grammar,95,dstc10-task5.1_00178,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00178|relevance,90,dstc10-task5.1_00178,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00179|appropriateness,90,dstc10-task5.1_00179,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00179|content,85,dstc10-task5.1_00179,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00179|grammar,95,dstc10-task5.1_00179,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00179|relevance,90,dstc10-task5.1_00179,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00180|appropriateness,90,dstc10-task5.1_00180,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00180|content,85,dstc10-task5.1_00180,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00180|grammar,95,dstc10-task5.1_00180,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00180|relevance,90,dstc10-task5.1_00180,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00181|appropriateness,100,dstc10-task5.1_00181,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00181|content,100,dstc10-task5.1_00181,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00181|grammar,100,dstc10-task5.1_00181,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00181|relevance,100,dstc10-task5.1_00181,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00182|appropriateness,90,dstc10-task5.1_00182,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00182|content,85,dstc10-task5.1_00182,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00182|grammar,95,dstc10-task5.1_00182,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00182|relevance,90,dstc10-task5.1_00182,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00183|appropriateness,95,dstc10-task5.1_00183,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00183|content,90,dstc10-task5.1_00183,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00183|grammar,100,dstc10-task5.1_00183,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00183|relevance,90,dstc10-task5.1_00183,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00184|appropriateness,90,dstc10-task5.1_00184,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00184|content,95,dstc10-task5.1_00184,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00184|grammar,100,dstc10-task5.1_00184,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00184|relevance,85,dstc10-task5.1_00184,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00185|appropriateness,90,dstc10-task5.1_00185,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 95}"
+dstc10-task5.1_00185|content,95,dstc10-task5.1_00185,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 95}"
+dstc10-task5.1_00185|grammar,100,dstc10-task5.1_00185,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 95}"
+dstc10-task5.1_00185|relevance,95,dstc10-task5.1_00185,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 95}"
+dstc10-task5.1_00186|appropriateness,80,dstc10-task5.1_00186,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00186|content,70,dstc10-task5.1_00186,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00186|grammar,90,dstc10-task5.1_00186,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00186|relevance,60,dstc10-task5.1_00186,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00187|appropriateness,90,dstc10-task5.1_00187,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00187|content,85,dstc10-task5.1_00187,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00187|grammar,95,dstc10-task5.1_00187,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00187|relevance,90,dstc10-task5.1_00187,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00188|appropriateness,80,dstc10-task5.1_00188,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00188|content,85,dstc10-task5.1_00188,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00188|grammar,90,dstc10-task5.1_00188,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00188|relevance,75,dstc10-task5.1_00188,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00189|appropriateness,90,dstc10-task5.1_00189,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00189|content,85,dstc10-task5.1_00189,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00189|grammar,95,dstc10-task5.1_00189,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00189|relevance,90,dstc10-task5.1_00189,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00190|appropriateness,90,dstc10-task5.1_00190,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00190|content,85,dstc10-task5.1_00190,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00190|grammar,95,dstc10-task5.1_00190,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00190|relevance,90,dstc10-task5.1_00190,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00191|appropriateness,80,dstc10-task5.1_00191,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00191|content,70,dstc10-task5.1_00191,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00191|grammar,90,dstc10-task5.1_00191,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00191|relevance,60,dstc10-task5.1_00191,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00192|appropriateness,90,dstc10-task5.1_00192,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00192|content,85,dstc10-task5.1_00192,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00192|grammar,95,dstc10-task5.1_00192,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00192|relevance,90,dstc10-task5.1_00192,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00193|appropriateness,90,dstc10-task5.1_00193,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00193|content,85,dstc10-task5.1_00193,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00193|grammar,95,dstc10-task5.1_00193,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00193|relevance,90,dstc10-task5.1_00193,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00194|appropriateness,80,dstc10-task5.1_00194,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00194|content,85,dstc10-task5.1_00194,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00194|grammar,90,dstc10-task5.1_00194,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00194|relevance,75,dstc10-task5.1_00194,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00195|appropriateness,90,dstc10-task5.1_00195,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00195|content,85,dstc10-task5.1_00195,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00195|grammar,95,dstc10-task5.1_00195,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00195|relevance,90,dstc10-task5.1_00195,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00196|appropriateness,80,dstc10-task5.1_00196,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00196|content,70,dstc10-task5.1_00196,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00196|grammar,90,dstc10-task5.1_00196,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00196|relevance,85,dstc10-task5.1_00196,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00197|appropriateness,90,dstc10-task5.1_00197,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00197|content,85,dstc10-task5.1_00197,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00197|grammar,95,dstc10-task5.1_00197,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00197|relevance,90,dstc10-task5.1_00197,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00198|appropriateness,100,dstc10-task5.1_00198,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00198|content,100,dstc10-task5.1_00198,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00198|grammar,100,dstc10-task5.1_00198,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00198|relevance,100,dstc10-task5.1_00198,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00199|appropriateness,90,dstc10-task5.1_00199,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00199|content,85,dstc10-task5.1_00199,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00199|grammar,95,dstc10-task5.1_00199,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00199|relevance,90,dstc10-task5.1_00199,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00200|appropriateness,90,dstc10-task5.1_00200,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00200|content,85,dstc10-task5.1_00200,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00200|grammar,95,dstc10-task5.1_00200,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00200|relevance,90,dstc10-task5.1_00200,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00201|appropriateness,80,dstc10-task5.1_00201,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00201|content,70,dstc10-task5.1_00201,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00201|grammar,90,dstc10-task5.1_00201,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00201|relevance,60,dstc10-task5.1_00201,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00202|appropriateness,90,dstc10-task5.1_00202,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00202|content,85,dstc10-task5.1_00202,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00202|grammar,95,dstc10-task5.1_00202,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00202|relevance,90,dstc10-task5.1_00202,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00203|appropriateness,90,dstc10-task5.1_00203,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00203|content,85,dstc10-task5.1_00203,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00203|grammar,95,dstc10-task5.1_00203,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00203|relevance,90,dstc10-task5.1_00203,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00204|appropriateness,90,dstc10-task5.1_00204,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00204|content,85,dstc10-task5.1_00204,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00204|grammar,95,dstc10-task5.1_00204,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00204|relevance,90,dstc10-task5.1_00204,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00205|appropriateness,80,dstc10-task5.1_00205,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00205|content,70,dstc10-task5.1_00205,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00205|grammar,90,dstc10-task5.1_00205,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00205|relevance,85,dstc10-task5.1_00205,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00206|appropriateness,100,dstc10-task5.1_00206,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00206|content,100,dstc10-task5.1_00206,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00206|grammar,100,dstc10-task5.1_00206,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00206|relevance,100,dstc10-task5.1_00206,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00207|appropriateness,90,dstc10-task5.1_00207,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00207|content,85,dstc10-task5.1_00207,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00207|grammar,95,dstc10-task5.1_00207,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00207|relevance,90,dstc10-task5.1_00207,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00208|appropriateness,95,dstc10-task5.1_00208,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00208|content,90,dstc10-task5.1_00208,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00208|grammar,100,dstc10-task5.1_00208,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00208|relevance,100,dstc10-task5.1_00208,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00209|appropriateness,90,dstc10-task5.1_00209,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00209|content,85,dstc10-task5.1_00209,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00209|grammar,95,dstc10-task5.1_00209,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00209|relevance,90,dstc10-task5.1_00209,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00210|appropriateness,80,dstc10-task5.1_00210,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00210|content,70,dstc10-task5.1_00210,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00210|grammar,90,dstc10-task5.1_00210,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00210|relevance,60,dstc10-task5.1_00210,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00211|appropriateness,80,dstc10-task5.1_00211,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00211|content,90,dstc10-task5.1_00211,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00211|grammar,95,dstc10-task5.1_00211,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00211|relevance,85,dstc10-task5.1_00211,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00212|appropriateness,80,dstc10-task5.1_00212,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00212|content,70,dstc10-task5.1_00212,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00212|grammar,90,dstc10-task5.1_00212,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00212|relevance,60,dstc10-task5.1_00212,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00213|appropriateness,95,dstc10-task5.1_00213,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00213|content,90,dstc10-task5.1_00213,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00213|grammar,100,dstc10-task5.1_00213,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00213|relevance,90,dstc10-task5.1_00213,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00214|appropriateness,90,dstc10-task5.1_00214,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00214|content,85,dstc10-task5.1_00214,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00214|grammar,95,dstc10-task5.1_00214,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00214|relevance,90,dstc10-task5.1_00214,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00215|appropriateness,90,dstc10-task5.1_00215,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00215|content,85,dstc10-task5.1_00215,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00215|grammar,95,dstc10-task5.1_00215,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00215|relevance,90,dstc10-task5.1_00215,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00216|appropriateness,100,dstc10-task5.1_00216,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00216|content,100,dstc10-task5.1_00216,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00216|grammar,100,dstc10-task5.1_00216,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00216|relevance,100,dstc10-task5.1_00216,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00217|appropriateness,80,dstc10-task5.1_00217,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00217|content,70,dstc10-task5.1_00217,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00217|grammar,90,dstc10-task5.1_00217,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00217|relevance,60,dstc10-task5.1_00217,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00218|appropriateness,90,dstc10-task5.1_00218,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00218|content,85,dstc10-task5.1_00218,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00218|grammar,95,dstc10-task5.1_00218,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00218|relevance,90,dstc10-task5.1_00218,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00219|appropriateness,80,dstc10-task5.1_00219,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00219|content,70,dstc10-task5.1_00219,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00219|grammar,90,dstc10-task5.1_00219,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00219|relevance,85,dstc10-task5.1_00219,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00220|appropriateness,90,dstc10-task5.1_00220,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00220|content,85,dstc10-task5.1_00220,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00220|grammar,95,dstc10-task5.1_00220,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00220|relevance,90,dstc10-task5.1_00220,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00221|appropriateness,95,dstc10-task5.1_00221,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00221|content,90,dstc10-task5.1_00221,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00221|grammar,100,dstc10-task5.1_00221,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00221|relevance,90,dstc10-task5.1_00221,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00222|appropriateness,90,dstc10-task5.1_00222,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00222|content,85,dstc10-task5.1_00222,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00222|grammar,95,dstc10-task5.1_00222,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00222|relevance,90,dstc10-task5.1_00222,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00223|appropriateness,90,dstc10-task5.1_00223,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00223|content,95,dstc10-task5.1_00223,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00223|grammar,100,dstc10-task5.1_00223,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00223|relevance,100,dstc10-task5.1_00223,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00224|appropriateness,100,dstc10-task5.1_00224,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00224|content,100,dstc10-task5.1_00224,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00224|grammar,100,dstc10-task5.1_00224,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00224|relevance,100,dstc10-task5.1_00224,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00225|appropriateness,70,dstc10-task5.1_00225,"
+{""appropriateness"": 70, ""content"": 80, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00225|content,80,dstc10-task5.1_00225,"
+{""appropriateness"": 70, ""content"": 80, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00225|grammar,90,dstc10-task5.1_00225,"
+{""appropriateness"": 70, ""content"": 80, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00225|relevance,60,dstc10-task5.1_00225,"
+{""appropriateness"": 70, ""content"": 80, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00226|appropriateness,90,dstc10-task5.1_00226,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00226|content,95,dstc10-task5.1_00226,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00226|grammar,100,dstc10-task5.1_00226,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00226|relevance,100,dstc10-task5.1_00226,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00227|appropriateness,90,dstc10-task5.1_00227,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00227|content,95,dstc10-task5.1_00227,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00227|grammar,100,dstc10-task5.1_00227,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00227|relevance,100,dstc10-task5.1_00227,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00228|appropriateness,90,dstc10-task5.1_00228,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00228|content,85,dstc10-task5.1_00228,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00228|grammar,95,dstc10-task5.1_00228,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00228|relevance,90,dstc10-task5.1_00228,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00229|appropriateness,90,dstc10-task5.1_00229,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00229|content,85,dstc10-task5.1_00229,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00229|grammar,95,dstc10-task5.1_00229,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00229|relevance,90,dstc10-task5.1_00229,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00230|appropriateness,90,dstc10-task5.1_00230,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00230|content,95,dstc10-task5.1_00230,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00230|grammar,100,dstc10-task5.1_00230,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00230|relevance,85,dstc10-task5.1_00230,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00231|appropriateness,100,dstc10-task5.1_00231,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00231|content,100,dstc10-task5.1_00231,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00231|grammar,100,dstc10-task5.1_00231,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00231|relevance,100,dstc10-task5.1_00231,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00232|appropriateness,90,dstc10-task5.1_00232,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00232|content,85,dstc10-task5.1_00232,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00232|grammar,95,dstc10-task5.1_00232,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00232|relevance,90,dstc10-task5.1_00232,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00233|appropriateness,90,dstc10-task5.1_00233,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00233|content,85,dstc10-task5.1_00233,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00233|grammar,95,dstc10-task5.1_00233,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00233|relevance,90,dstc10-task5.1_00233,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00234|appropriateness,90,dstc10-task5.1_00234,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00234|content,85,dstc10-task5.1_00234,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00234|grammar,95,dstc10-task5.1_00234,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00234|relevance,90,dstc10-task5.1_00234,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00235|appropriateness,90,dstc10-task5.1_00235,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00235|content,85,dstc10-task5.1_00235,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00235|grammar,95,dstc10-task5.1_00235,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00235|relevance,90,dstc10-task5.1_00235,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00236|appropriateness,80,dstc10-task5.1_00236,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00236|content,70,dstc10-task5.1_00236,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00236|grammar,90,dstc10-task5.1_00236,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00236|relevance,60,dstc10-task5.1_00236,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00237|appropriateness,90,dstc10-task5.1_00237,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00237|content,95,dstc10-task5.1_00237,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00237|grammar,100,dstc10-task5.1_00237,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00237|relevance,85,dstc10-task5.1_00237,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 85}"
+dstc10-task5.1_00238|appropriateness,90,dstc10-task5.1_00238,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00238|content,85,dstc10-task5.1_00238,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00238|grammar,95,dstc10-task5.1_00238,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00238|relevance,90,dstc10-task5.1_00238,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00239|appropriateness,90,dstc10-task5.1_00239,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00239|content,85,dstc10-task5.1_00239,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00239|grammar,95,dstc10-task5.1_00239,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00239|relevance,90,dstc10-task5.1_00239,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00240|appropriateness,90,dstc10-task5.1_00240,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00240|content,95,dstc10-task5.1_00240,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00240|grammar,100,dstc10-task5.1_00240,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00240|relevance,100,dstc10-task5.1_00240,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00241|appropriateness,90,dstc10-task5.1_00241,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00241|content,85,dstc10-task5.1_00241,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00241|grammar,95,dstc10-task5.1_00241,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00241|relevance,90,dstc10-task5.1_00241,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00242|appropriateness,80,dstc10-task5.1_00242,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00242|content,85,dstc10-task5.1_00242,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00242|grammar,90,dstc10-task5.1_00242,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00242|relevance,75,dstc10-task5.1_00242,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00243|appropriateness,90,dstc10-task5.1_00243,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00243|content,85,dstc10-task5.1_00243,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00243|grammar,95,dstc10-task5.1_00243,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00243|relevance,90,dstc10-task5.1_00243,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00244|appropriateness,80,dstc10-task5.1_00244,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00244|content,85,dstc10-task5.1_00244,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00244|grammar,90,dstc10-task5.1_00244,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00244|relevance,75,dstc10-task5.1_00244,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00245|appropriateness,95,dstc10-task5.1_00245,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00245|content,90,dstc10-task5.1_00245,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00245|grammar,100,dstc10-task5.1_00245,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00245|relevance,90,dstc10-task5.1_00245,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00246|appropriateness,100,dstc10-task5.1_00246,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00246|content,100,dstc10-task5.1_00246,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00246|grammar,100,dstc10-task5.1_00246,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00246|relevance,100,dstc10-task5.1_00246,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00247|appropriateness,90,dstc10-task5.1_00247,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00247|content,95,dstc10-task5.1_00247,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00247|grammar,100,dstc10-task5.1_00247,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00247|relevance,100,dstc10-task5.1_00247,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00248|appropriateness,90,dstc10-task5.1_00248,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00248|content,85,dstc10-task5.1_00248,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00248|grammar,95,dstc10-task5.1_00248,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00248|relevance,90,dstc10-task5.1_00248,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00249|appropriateness,90,dstc10-task5.1_00249,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 95}"
+dstc10-task5.1_00249|content,95,dstc10-task5.1_00249,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 95}"
+dstc10-task5.1_00249|grammar,100,dstc10-task5.1_00249,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 95}"
+dstc10-task5.1_00249|relevance,95,dstc10-task5.1_00249,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 95}"
+dstc10-task5.1_00250|appropriateness,95,dstc10-task5.1_00250,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00250|content,90,dstc10-task5.1_00250,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00250|grammar,100,dstc10-task5.1_00250,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00250|relevance,90,dstc10-task5.1_00250,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00251|appropriateness,90,dstc10-task5.1_00251,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00251|content,85,dstc10-task5.1_00251,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00251|grammar,95,dstc10-task5.1_00251,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00251|relevance,90,dstc10-task5.1_00251,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00252|appropriateness,90,dstc10-task5.1_00252,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00252|content,85,dstc10-task5.1_00252,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00252|grammar,95,dstc10-task5.1_00252,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00252|relevance,90,dstc10-task5.1_00252,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00253|appropriateness,80,dstc10-task5.1_00253,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00253|content,90,dstc10-task5.1_00253,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00253|grammar,95,dstc10-task5.1_00253,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00253|relevance,85,dstc10-task5.1_00253,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00254|appropriateness,100,dstc10-task5.1_00254,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00254|content,100,dstc10-task5.1_00254,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00254|grammar,100,dstc10-task5.1_00254,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00254|relevance,100,dstc10-task5.1_00254,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00255|appropriateness,100,dstc10-task5.1_00255,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00255|content,100,dstc10-task5.1_00255,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00255|grammar,100,dstc10-task5.1_00255,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00255|relevance,100,dstc10-task5.1_00255,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00256|appropriateness,90,dstc10-task5.1_00256,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00256|content,85,dstc10-task5.1_00256,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00256|grammar,95,dstc10-task5.1_00256,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00256|relevance,90,dstc10-task5.1_00256,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00257|appropriateness,90,dstc10-task5.1_00257,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00257|content,95,dstc10-task5.1_00257,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00257|grammar,100,dstc10-task5.1_00257,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00257|relevance,100,dstc10-task5.1_00257,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 95,
+  ""grammar"": 100,
+  ""relevance"": 100
+}"
+dstc10-task5.1_00258|appropriateness,100,dstc10-task5.1_00258,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00258|content,100,dstc10-task5.1_00258,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00258|grammar,100,dstc10-task5.1_00258,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00258|relevance,100,dstc10-task5.1_00258,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00259|appropriateness,95,dstc10-task5.1_00259,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00259|content,90,dstc10-task5.1_00259,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00259|grammar,100,dstc10-task5.1_00259,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00259|relevance,90,dstc10-task5.1_00259,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00260|appropriateness,90,dstc10-task5.1_00260,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00260|content,85,dstc10-task5.1_00260,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00260|grammar,95,dstc10-task5.1_00260,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00260|relevance,90,dstc10-task5.1_00260,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00261|appropriateness,80,dstc10-task5.1_00261,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00261|content,85,dstc10-task5.1_00261,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00261|grammar,90,dstc10-task5.1_00261,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00261|relevance,75,dstc10-task5.1_00261,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00262|appropriateness,90,dstc10-task5.1_00262,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00262|content,85,dstc10-task5.1_00262,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00262|grammar,95,dstc10-task5.1_00262,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00262|relevance,90,dstc10-task5.1_00262,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00263|appropriateness,80,dstc10-task5.1_00263,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00263|content,85,dstc10-task5.1_00263,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00263|grammar,90,dstc10-task5.1_00263,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00263|relevance,75,dstc10-task5.1_00263,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 75}"
+dstc10-task5.1_00264|appropriateness,80,dstc10-task5.1_00264,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00264|content,70,dstc10-task5.1_00264,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00264|grammar,90,dstc10-task5.1_00264,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00264|relevance,60,dstc10-task5.1_00264,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 60
+}"
+dstc10-task5.1_00265|appropriateness,90,dstc10-task5.1_00265,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00265|content,85,dstc10-task5.1_00265,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00265|grammar,95,dstc10-task5.1_00265,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00265|relevance,90,dstc10-task5.1_00265,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00266|appropriateness,80,dstc10-task5.1_00266,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00266|content,90,dstc10-task5.1_00266,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00266|grammar,95,dstc10-task5.1_00266,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00266|relevance,85,dstc10-task5.1_00266,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00267|appropriateness,95,dstc10-task5.1_00267,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00267|content,90,dstc10-task5.1_00267,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00267|grammar,100,dstc10-task5.1_00267,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00267|relevance,90,dstc10-task5.1_00267,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00268|appropriateness,80,dstc10-task5.1_00268,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00268|content,85,dstc10-task5.1_00268,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00268|grammar,90,dstc10-task5.1_00268,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00268|relevance,95,dstc10-task5.1_00268,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 95
+}"
+dstc10-task5.1_00269|appropriateness,90,dstc10-task5.1_00269,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00269|content,85,dstc10-task5.1_00269,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00269|grammar,95,dstc10-task5.1_00269,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00269|relevance,80,dstc10-task5.1_00269,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00270|appropriateness,90,dstc10-task5.1_00270,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00270|content,85,dstc10-task5.1_00270,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00270|grammar,95,dstc10-task5.1_00270,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00270|relevance,90,dstc10-task5.1_00270,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00271|appropriateness,90,dstc10-task5.1_00271,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00271|content,85,dstc10-task5.1_00271,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00271|grammar,95,dstc10-task5.1_00271,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00271|relevance,90,dstc10-task5.1_00271,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00272|appropriateness,95,dstc10-task5.1_00272,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00272|content,90,dstc10-task5.1_00272,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00272|grammar,100,dstc10-task5.1_00272,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00272|relevance,100,dstc10-task5.1_00272,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00273|appropriateness,90,dstc10-task5.1_00273,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00273|content,85,dstc10-task5.1_00273,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00273|grammar,95,dstc10-task5.1_00273,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00273|relevance,90,dstc10-task5.1_00273,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00274|appropriateness,95,dstc10-task5.1_00274,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00274|content,90,dstc10-task5.1_00274,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00274|grammar,100,dstc10-task5.1_00274,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00274|relevance,100,dstc10-task5.1_00274,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00275|appropriateness,50,dstc10-task5.1_00275,"
+{""appropriateness"": 50, ""content"": 60, ""grammar"": 70, ""relevance"": 40}"
+dstc10-task5.1_00275|content,60,dstc10-task5.1_00275,"
+{""appropriateness"": 50, ""content"": 60, ""grammar"": 70, ""relevance"": 40}"
+dstc10-task5.1_00275|grammar,70,dstc10-task5.1_00275,"
+{""appropriateness"": 50, ""content"": 60, ""grammar"": 70, ""relevance"": 40}"
+dstc10-task5.1_00275|relevance,40,dstc10-task5.1_00275,"
+{""appropriateness"": 50, ""content"": 60, ""grammar"": 70, ""relevance"": 40}"
+dstc10-task5.1_00276|appropriateness,80,dstc10-task5.1_00276,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00276|content,70,dstc10-task5.1_00276,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00276|grammar,90,dstc10-task5.1_00276,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00276|relevance,85,dstc10-task5.1_00276,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00277|appropriateness,100,dstc10-task5.1_00277,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00277|content,100,dstc10-task5.1_00277,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00277|grammar,100,dstc10-task5.1_00277,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00277|relevance,100,dstc10-task5.1_00277,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00278|appropriateness,80,dstc10-task5.1_00278,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00278|content,70,dstc10-task5.1_00278,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00278|grammar,90,dstc10-task5.1_00278,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00278|relevance,60,dstc10-task5.1_00278,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00279|appropriateness,90,dstc10-task5.1_00279,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00279|content,85,dstc10-task5.1_00279,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00279|grammar,95,dstc10-task5.1_00279,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00279|relevance,90,dstc10-task5.1_00279,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00280|appropriateness,90,dstc10-task5.1_00280,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00280|content,85,dstc10-task5.1_00280,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00280|grammar,95,dstc10-task5.1_00280,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00280|relevance,90,dstc10-task5.1_00280,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00281|appropriateness,90,dstc10-task5.1_00281,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00281|content,85,dstc10-task5.1_00281,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00281|grammar,95,dstc10-task5.1_00281,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00281|relevance,90,dstc10-task5.1_00281,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00282|appropriateness,80,dstc10-task5.1_00282,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00282|content,85,dstc10-task5.1_00282,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00282|grammar,90,dstc10-task5.1_00282,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00282|relevance,75,dstc10-task5.1_00282,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 85,
+  ""grammar"": 90,
+  ""relevance"": 75
+}"
+dstc10-task5.1_00283|appropriateness,80,dstc10-task5.1_00283,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00283|content,70,dstc10-task5.1_00283,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00283|grammar,90,dstc10-task5.1_00283,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00283|relevance,60,dstc10-task5.1_00283,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 60}"
+dstc10-task5.1_00284|appropriateness,100,dstc10-task5.1_00284,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00284|content,100,dstc10-task5.1_00284,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00284|grammar,100,dstc10-task5.1_00284,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00284|relevance,100,dstc10-task5.1_00284,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00285|appropriateness,90,dstc10-task5.1_00285,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00285|content,85,dstc10-task5.1_00285,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00285|grammar,95,dstc10-task5.1_00285,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00285|relevance,90,dstc10-task5.1_00285,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00286|appropriateness,80,dstc10-task5.1_00286,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00286|content,90,dstc10-task5.1_00286,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00286|grammar,95,dstc10-task5.1_00286,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00286|relevance,85,dstc10-task5.1_00286,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 90,
+  ""grammar"": 95,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00287|appropriateness,80,dstc10-task5.1_00287,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 100, ""relevance"": 70}"
+dstc10-task5.1_00287|content,90,dstc10-task5.1_00287,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 100, ""relevance"": 70}"
+dstc10-task5.1_00287|grammar,100,dstc10-task5.1_00287,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 100, ""relevance"": 70}"
+dstc10-task5.1_00287|relevance,70,dstc10-task5.1_00287,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 100, ""relevance"": 70}"
+dstc10-task5.1_00288|appropriateness,100,dstc10-task5.1_00288,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00288|content,100,dstc10-task5.1_00288,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00288|grammar,100,dstc10-task5.1_00288,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00288|relevance,100,dstc10-task5.1_00288,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00289|appropriateness,90,dstc10-task5.1_00289,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00289|content,95,dstc10-task5.1_00289,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00289|grammar,100,dstc10-task5.1_00289,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00289|relevance,100,dstc10-task5.1_00289,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00290|appropriateness,90,dstc10-task5.1_00290,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00290|content,85,dstc10-task5.1_00290,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00290|grammar,95,dstc10-task5.1_00290,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00290|relevance,90,dstc10-task5.1_00290,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00291|appropriateness,100,dstc10-task5.1_00291,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00291|content,100,dstc10-task5.1_00291,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00291|grammar,100,dstc10-task5.1_00291,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00291|relevance,100,dstc10-task5.1_00291,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00292|appropriateness,90,dstc10-task5.1_00292,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00292|content,85,dstc10-task5.1_00292,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00292|grammar,95,dstc10-task5.1_00292,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00292|relevance,90,dstc10-task5.1_00292,"
+{
+  ""appropriateness"": 90, 
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00293|appropriateness,80,dstc10-task5.1_00293,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00293|content,70,dstc10-task5.1_00293,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00293|grammar,90,dstc10-task5.1_00293,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00293|relevance,85,dstc10-task5.1_00293,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85
+}"
+dstc10-task5.1_00294|appropriateness,100,dstc10-task5.1_00294,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00294|content,100,dstc10-task5.1_00294,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00294|grammar,100,dstc10-task5.1_00294,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00294|relevance,100,dstc10-task5.1_00294,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00295|appropriateness,95,dstc10-task5.1_00295,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00295|content,90,dstc10-task5.1_00295,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00295|grammar,100,dstc10-task5.1_00295,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00295|relevance,90,dstc10-task5.1_00295,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00296|appropriateness,80,dstc10-task5.1_00296,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00296|content,70,dstc10-task5.1_00296,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00296|grammar,90,dstc10-task5.1_00296,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00296|relevance,85,dstc10-task5.1_00296,"
+{
+  ""appropriateness"": 80, 
+  ""content"": 70,
+  ""grammar"": 90,
+  ""relevance"": 85 
+}"
+dstc10-task5.1_00297|appropriateness,50,dstc10-task5.1_00297,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00297|content,50,dstc10-task5.1_00297,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00297|grammar,100,dstc10-task5.1_00297,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00297|relevance,0,dstc10-task5.1_00297,"
+{""appropriateness"": 50, ""content"": 50, ""grammar"": 100, ""relevance"": 0}"
+dstc10-task5.1_00298|appropriateness,90,dstc10-task5.1_00298,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00298|content,95,dstc10-task5.1_00298,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00298|grammar,100,dstc10-task5.1_00298,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00298|relevance,90,dstc10-task5.1_00298,"
+{""appropriateness"": 90, ""content"": 95, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00299|appropriateness,90,dstc10-task5.1_00299,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00299|content,85,dstc10-task5.1_00299,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00299|grammar,95,dstc10-task5.1_00299,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00299|relevance,90,dstc10-task5.1_00299,"
+{
+  ""appropriateness"": 90,
+  ""content"": 85,
+  ""grammar"": 95,
+  ""relevance"": 90
+}"
+dstc10-task5.1_00300|appropriateness,80,dstc10-task5.1_00300,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00300|content,70,dstc10-task5.1_00300,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00300|grammar,90,dstc10-task5.1_00300,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00300|relevance,85,dstc10-task5.1_00300,"
+{""appropriateness"": 80, ""content"": 70, ""grammar"": 90, ""relevance"": 85}"
+dstc10-task5.1_00301|appropriateness,90,dstc10-task5.1_00301,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00301|content,85,dstc10-task5.1_00301,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00301|grammar,95,dstc10-task5.1_00301,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00301|relevance,80,dstc10-task5.1_00301,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 80}"
+dstc10-task5.1_00302|appropriateness,90,dstc10-task5.1_00302,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00302|content,85,dstc10-task5.1_00302,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00302|grammar,95,dstc10-task5.1_00302,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00302|relevance,90,dstc10-task5.1_00302,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00303|appropriateness,80,dstc10-task5.1_00303,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 95}"
+dstc10-task5.1_00303|content,85,dstc10-task5.1_00303,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 95}"
+dstc10-task5.1_00303|grammar,90,dstc10-task5.1_00303,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 95}"
+dstc10-task5.1_00303|relevance,95,dstc10-task5.1_00303,"
+{""appropriateness"": 80, ""content"": 85, ""grammar"": 90, ""relevance"": 95}"
+dstc10-task5.1_00304|appropriateness,95,dstc10-task5.1_00304,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00304|content,90,dstc10-task5.1_00304,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00304|grammar,100,dstc10-task5.1_00304,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00304|relevance,90,dstc10-task5.1_00304,"
+{""appropriateness"": 95, ""content"": 90, ""grammar"": 100, ""relevance"": 90}"
+dstc10-task5.1_00305|appropriateness,100,dstc10-task5.1_00305,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00305|content,100,dstc10-task5.1_00305,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00305|grammar,100,dstc10-task5.1_00305,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00305|relevance,100,dstc10-task5.1_00305,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00306|appropriateness,80,dstc10-task5.1_00306,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 100, ""relevance"": 70}"
+dstc10-task5.1_00306|content,90,dstc10-task5.1_00306,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 100, ""relevance"": 70}"
+dstc10-task5.1_00306|grammar,100,dstc10-task5.1_00306,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 100, ""relevance"": 70}"
+dstc10-task5.1_00306|relevance,70,dstc10-task5.1_00306,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 100, ""relevance"": 70}"
+dstc10-task5.1_00307|appropriateness,80,dstc10-task5.1_00307,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00307|content,90,dstc10-task5.1_00307,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00307|grammar,95,dstc10-task5.1_00307,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00307|relevance,85,dstc10-task5.1_00307,"
+{""appropriateness"": 80, ""content"": 90, ""grammar"": 95, ""relevance"": 85}"
+dstc10-task5.1_00308|appropriateness,100,dstc10-task5.1_00308,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00308|content,100,dstc10-task5.1_00308,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00308|grammar,100,dstc10-task5.1_00308,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00308|relevance,100,dstc10-task5.1_00308,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00309|appropriateness,100,dstc10-task5.1_00309,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00309|content,100,dstc10-task5.1_00309,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00309|grammar,100,dstc10-task5.1_00309,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00309|relevance,100,dstc10-task5.1_00309,"
+{""appropriateness"": 100, ""content"": 100, ""grammar"": 100, ""relevance"": 100}"
+dstc10-task5.1_00310|appropriateness,90,dstc10-task5.1_00310,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00310|content,85,dstc10-task5.1_00310,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00310|grammar,95,dstc10-task5.1_00310,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"
+dstc10-task5.1_00310|relevance,90,dstc10-task5.1_00310,"
+{""appropriateness"": 90, ""content"": 85, ""grammar"": 95, ""relevance"": 90}"

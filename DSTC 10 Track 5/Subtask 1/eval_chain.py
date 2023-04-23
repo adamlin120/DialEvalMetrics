@@ -1,4 +1,5 @@
 import logging
+import re
 import os
 from argparse import ArgumentParser
 from parser import get_pydantic_output_parser
@@ -8,6 +9,7 @@ import pandas as pd
 from human_evaluation_data.generate_submission_template import (
     dialogue_dd_llmeval_iterator,
     dialogue_dev_set_iterator,
+    dialogue_ablation_set_iterator,
 )
 from human_evaluation_data.generate_submission_template import (
     dialogue_iterator as dialogue_iterator_all,
@@ -15,7 +17,8 @@ from human_evaluation_data.generate_submission_template import (
 from human_evaluation_data.generate_submission_template import (
     dialogue_test_set_iterator,
 )
-from langchain import LLMChain
+from langchain import LLMChain, PromptTemplate
+from langchain.llms import Anthropic
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts.chat import ChatPromptTemplate, HumanMessagePromptTemplate
 from openai.error import Timeout
@@ -39,15 +42,21 @@ def run_eval_chain(
     model_name: str = "gpt-3.5-turbo-0301",
     **prompt_kwargs,
 ):
-    chat = ChatOpenAI(temperature=0, model_name=model_name, max_retries=1)
-
-    human_message_prompt = HumanMessagePromptTemplate.from_template(human_template)
-    chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
+    if 'gpt' in model_name:
+        chat = ChatOpenAI(temperature=0, model_name=model_name, max_retries=1)
+        human_message_prompt = HumanMessagePromptTemplate.from_template(human_template)
+        chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
+    elif 'claude' in model_name:
+        chat = Anthropic(model=model_name, temperature=0)
+        input_variables = re.findall(r"\{(\w+)\}", human_template)
+        chat_prompt = PromptTemplate(template=human_template, input_variables=input_variables)
+    else:
+        raise ValueError("Unknown model name %s" % model_name)
 
     chain = LLMChain(
         prompt=chat_prompt,
         llm=chat,
-        verbose=True,
+        # verbose=True,
     )
 
     parser = get_pydantic_output_parser(
@@ -81,7 +90,7 @@ if __name__ == "__main__":
         "--data_set",
         type=str,
         required=True,
-        choices=["dev", "test", "all", "DD_LLMEval"],
+        choices=["dev", "test", "all", "DD_LLMEval", "ablation"],
     )
     parser.add_argument("--save_path", type=str, required=True)
     parser.add_argument("--reference_free", action="store_true")
@@ -97,6 +106,8 @@ if __name__ == "__main__":
         dialogue_iterator = dialogue_iterator_all
     elif args.data_set == "DD_LLMEval":
         dialogue_iterator = dialogue_dd_llmeval_iterator
+    elif args.data_set == "ablation":
+        dialogue_iterator = dialogue_ablation_set_iterator
     else:
         raise ValueError("Unknown data set %s" % args.data_set)
 

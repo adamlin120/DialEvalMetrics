@@ -21,6 +21,11 @@ TEST_FILES = {
     "ncm_eval.json",
 }
 
+ABLATION_FILES = {
+    "dstc10-persona_clean_eval.json",
+    "dstc10-topical_clean_eval.json",
+}
+
 
 _PATH = Path(__file__).parent.absolute()
 
@@ -40,6 +45,17 @@ def test_files_iterator():
     f_list = Path(_PATH).glob("*.json")
     for f in f_list:
         if f.name in IGNORE_FILES or f.name not in TEST_FILES:
+            logging.warning(
+                f"Skipping {f} (not used in DSTC10 official TEST evaluation)"
+            )
+            continue
+        yield f
+
+
+def ablation_files_iterator():
+    f_list = Path(_PATH).glob("*.json")
+    for f in f_list:
+        if f.name not in ABLATION_FILES:
             logging.warning(
                 f"Skipping {f} (not used in DSTC10 official TEST evaluation)"
             )
@@ -67,6 +83,14 @@ def dialogue_iterator():
 
 def dialogue_test_set_iterator():
     for f in test_files_iterator():
+        d = json.load(open(f))
+        for item in d:
+            item["dataset"] = f.stem
+            yield item
+
+
+def dialogue_ablation_set_iterator():
+    for f in ablation_files_iterator():
         d = json.load(open(f))
         for item in d:
             item["dataset"] = f.stem
