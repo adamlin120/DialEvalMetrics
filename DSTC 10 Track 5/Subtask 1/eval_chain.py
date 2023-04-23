@@ -47,7 +47,7 @@ def run_eval_chain(
         human_message_prompt = HumanMessagePromptTemplate.from_template(human_template)
         chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
     elif 'claude' in model_name:
-        chat = Anthropic(model=model_name, temperature=0)
+        chat = Anthropic(model=model_name, top_p=0.9)
         input_variables = re.findall(r"\{(\w+)\}", human_template)
         chat_prompt = PromptTemplate(template=human_template, input_variables=input_variables)
     else:
@@ -64,18 +64,17 @@ def run_eval_chain(
         score_type=score_dtype,
         score_range=(score_min, score_max),
     )
-
-    output = chain.run(
-        format_instructions=parser.get_format_instructions(),
-        score_min=score_min,
-        score_max=score_max,
-        **prompt_kwargs,
-    )
     try:
+        output = chain.run(
+            format_instructions=parser.get_format_instructions(),
+            score_min=score_min,
+            score_max=score_max,
+            **prompt_kwargs,
+        )
         scores = parser.parse(output)
-    except:
-        logging.warning("Failed to parse output: %s" % output)
-        scores = None
+    except Exception as e:
+        logging.warning("Failed to run chain: %s" % e)
+        return None, None
 
     return output, scores
 

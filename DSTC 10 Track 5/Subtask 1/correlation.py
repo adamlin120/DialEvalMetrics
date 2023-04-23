@@ -1,6 +1,5 @@
 from pathlib import Path
 
-import ipdb
 import numpy as np
 import pandas as pd
 
@@ -42,6 +41,30 @@ PRED_FILE_NAME_TO_CONFIG = {
     "submission_0-5_noref_DD-LLMEval": {
         "use_reference": "No",
         "score_range": "0-5",
+    },
+    "submission_0-100_ablation_anthropic": {
+        "use_reference": "Yes",
+        "score_range": "0-100",
+    },
+    "submission_0-5_ablation_anthropic": {
+        "use_reference": "Yes",
+        "score_range": "0-5",
+    },
+    "submission_0-100_noref_ablation_anthropic": {
+        "use_reference": "Yes",
+        "score_range": "0-100",
+    },
+    "submission_0-5_noref_ablation_anthropic": {
+        "use_reference": "Yes",
+        "score_range": "0-5",
+    },
+    "submission_0-5_ablation_anthropic-ins": {
+        "use_reference": "Yes",
+        "score_range": "0-5",
+    },
+    "submission_0-100_ablation_anthropic-ins": {
+        "use_reference": "Yes",
+        "score_range": "0-100",
     },
 }
 
