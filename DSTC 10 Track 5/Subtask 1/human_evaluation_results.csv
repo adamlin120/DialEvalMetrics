@@ -88,9 +88,9 @@ submission_0-5_ablation_anthropic-ins,Yes,0-5,dstc10-persona_clean_eval,relevanc
 submission_0-5_ablation_igpt,Yes,0-5,dstc10-persona_clean_eval,relevance,0.44103709165325106,0.4509586412160484,0.33963380742440746
 submission_0-5_ablation_anthropic,Yes,0-5,dstc10-persona_clean_eval,relevance,0.4895127953877368,0.49081883304569546,0.3815987246972174
 submission_0-100_noref_ablation_anthropic-sampling,No,0-100,dstc10-topical_clean_eval,appropriateness,0.3511179459731966,0.3010405513686154,0.22141075357010706
-submission_0-100_noref_ablation_anthropic,No,0-100,dstc10-topical_clean_eval,appropriateness,0.41725529574022063,0.4038214433000468,0.314818536724054
+submission_0-100_noref_ablation_anthropic,No,0-100,dstc10-topical_clean_eval,appropriateness,0.4033528258426961,0.38640229662694664,0.3032996709638118
 submission_0-100_all_noref,No,0-100,dstc10-topical_clean_eval,appropriateness,0.36309533889248463,0.36241979563505344,0.2782206853076288
-submission_0-5_noref_ablation_anthropic,No,0-5,dstc10-topical_clean_eval,appropriateness,0.31508318195770463,0.26942303857327016,0.2161107263521219
+submission_0-5_noref_ablation_anthropic,No,0-5,dstc10-topical_clean_eval,appropriateness,0.41119284478232626,0.38649302826782134,0.30545967548854563
 submission_0-5_all_noref,No,0-5,dstc10-topical_clean_eval,appropriateness,0.37623850051774926,0.35719392164773084,0.27428340238688687
 submission_0-5_noref_ablation_anthropic-sampling,No,0-5,dstc10-topical_clean_eval,appropriateness,0.35522347268145826,0.318742453036255,0.24015143995323926
 submission_0-100_ablation_anthropic-ins,Yes,0-100,dstc10-topical_clean_eval,appropriateness,0.3178078885156382,0.2799468798600936,0.2203766159239533
@@ -100,9 +100,9 @@ submission_0-5,Yes,0-5,dstc10-topical_clean_eval,appropriateness,0.3671249383322
 submission_0-5_ablation_anthropic-ins,Yes,0-5,dstc10-topical_clean_eval,appropriateness,0.2833002198967303,0.2683840770495459,0.21707787254657415
 submission_0-5_ablation_anthropic,Yes,0-5,dstc10-topical_clean_eval,appropriateness,0.40889866623064974,0.3795090146486579,0.2966112462058496
 submission_0-100_noref_ablation_anthropic-sampling,No,0-100,dstc10-topical_clean_eval,content,0.17282340078165417,0.15637089018119085,0.1156618749687561
-submission_0-100_noref_ablation_anthropic,No,0-100,dstc10-topical_clean_eval,content,0.21464761404504318,0.21261167089931565,0.16357274272662323
+submission_0-100_noref_ablation_anthropic,No,0-100,dstc10-topical_clean_eval,content,0.21329032572046094,0.21307312127434727,0.16407868722410682
 submission_0-100_all_noref,No,0-100,dstc10-topical_clean_eval,content,0.1677478384280499,0.16691857272008997,0.12761334642455754
-submission_0-5_noref_ablation_anthropic,No,0-5,dstc10-topical_clean_eval,content,0.19420519025017283,0.18958853207833054,0.1521819612427102
+submission_0-5_noref_ablation_anthropic,No,0-5,dstc10-topical_clean_eval,content,0.21659117600081518,0.20578788852175917,0.16135021201952346
 submission_0-5_all_noref,No,0-5,dstc10-topical_clean_eval,content,0.19480334140201,0.18353071831543358,0.14053818127715884
 submission_0-5_noref_ablation_anthropic-sampling,No,0-5,dstc10-topical_clean_eval,content,0.18698598306523828,0.1692920877589548,0.12871159469384374
 submission_0-100_ablation_anthropic-ins,Yes,0-100,dstc10-topical_clean_eval,content,0.16469813501353983,0.14569156767797725,0.11109670694938431
@@ -112,9 +112,9 @@ submission_0-5,Yes,0-5,dstc10-topical_clean_eval,content,0.22221302564311596,0.2
 submission_0-5_ablation_anthropic-ins,Yes,0-5,dstc10-topical_clean_eval,content,0.160669326340075,0.14370570074588118,0.112958191968099
 submission_0-5_ablation_anthropic,Yes,0-5,dstc10-topical_clean_eval,content,0.21646133891773792,0.21545533408892695,0.1668731745469356
 submission_0-100_noref_ablation_anthropic-sampling,No,0-100,dstc10-topical_clean_eval,grammar,0.3320073152598383,0.2727392016707587,0.20986555285193556
-submission_0-100_noref_ablation_anthropic,No,0-100,dstc10-topical_clean_eval,grammar,0.3314536447192117,0.27588270692135647,0.21892566327646532
+submission_0-100_noref_ablation_anthropic,No,0-100,dstc10-topical_clean_eval,grammar,0.38613743885776863,0.3272931847982987,0.2592904994521564
 submission_0-100_all_noref,No,0-100,dstc10-topical_clean_eval,grammar,0.36917223276622974,0.3343101689755473,0.2606981871348326
-submission_0-5_noref_ablation_anthropic,No,0-5,dstc10-topical_clean_eval,grammar,0.2646686605397159,0.20262197750581296,0.17024877078822517
+submission_0-5_noref_ablation_anthropic,No,0-5,dstc10-topical_clean_eval,grammar,0.40261557766758305,0.3319578169049742,0.272812955325839
 submission_0-5_all_noref,No,0-5,dstc10-topical_clean_eval,grammar,0.3688579674988154,0.3306730828122947,0.26007511681514833
 submission_0-5_noref_ablation_anthropic-sampling,No,0-5,dstc10-topical_clean_eval,grammar,0.36730902070253973,0.3015496331996165,0.237312194144097
 submission_0-100_ablation_anthropic-ins,Yes,0-100,dstc10-topical_clean_eval,grammar,0.3457380649241266,0.32193870807391933,0.24436308714176638
@@ -124,9 +124,9 @@ submission_0-5,Yes,0-5,dstc10-topical_clean_eval,grammar,0.3540150568642698,0.31
 submission_0-5_ablation_anthropic-ins,Yes,0-5,dstc10-topical_clean_eval,grammar,0.33210028373766043,0.30288880649170413,0.23138490312680282
 submission_0-5_ablation_anthropic,Yes,0-5,dstc10-topical_clean_eval,grammar,0.3781667863561777,0.3120938140718647,0.2560130002459696
 submission_0-100_noref_ablation_anthropic-sampling,No,0-100,dstc10-topical_clean_eval,relevance,0.42858138047128147,0.3768587433524279,0.28198856373461934
-submission_0-100_noref_ablation_anthropic,No,0-100,dstc10-topical_clean_eval,relevance,0.4874685485972334,0.45535610252551245,0.34931089731138815
+submission_0-100_noref_ablation_anthropic,No,0-100,dstc10-topical_clean_eval,relevance,0.4615810057030837,0.4111027549874371,0.3164863631424422
 submission_0-100_all_noref,No,0-100,dstc10-topical_clean_eval,relevance,0.38886121788799527,0.3604866427040376,0.2711013940958333
-submission_0-5_noref_ablation_anthropic,No,0-5,dstc10-topical_clean_eval,relevance,0.39514333007377056,0.3637368592831815,0.2886530773478476
+submission_0-5_noref_ablation_anthropic,No,0-5,dstc10-topical_clean_eval,relevance,0.4620593011336363,0.4279273935833468,0.33714167383117544
 submission_0-5_all_noref,No,0-5,dstc10-topical_clean_eval,relevance,0.3976328770481001,0.3725377036954632,0.2817676262675467
 submission_0-5_noref_ablation_anthropic-sampling,No,0-5,dstc10-topical_clean_eval,relevance,0.4265512654518447,0.38523034850166005,0.2926539467569976
 submission_0-100_ablation_anthropic-ins,Yes,0-100,dstc10-topical_clean_eval,relevance,0.38268367284341337,0.34141884726555793,0.2579353886358079
