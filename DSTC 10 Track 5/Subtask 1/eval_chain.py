@@ -18,7 +18,7 @@ from human_evaluation_data.generate_submission_template import (
     dialogue_test_set_iterator,
 )
 from langchain import LLMChain, PromptTemplate
-from langchain.llms import Anthropic
+from langchain.llms import Anthropic, OpenAI
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts.chat import ChatPromptTemplate, HumanMessagePromptTemplate
 from openai.error import Timeout
@@ -42,12 +42,16 @@ def run_eval_chain(
     model_name: str = "gpt-3.5-turbo-0301",
     **prompt_kwargs,
 ):
-    if 'gpt' in model_name:
+    if 'gpt-3.5' in model_name:
         chat = ChatOpenAI(temperature=0, model_name=model_name, max_retries=1)
         human_message_prompt = HumanMessagePromptTemplate.from_template(human_template)
         chat_prompt = ChatPromptTemplate.from_messages([human_message_prompt])
+    elif 'text-davinci' in model_name:
+        chat = OpenAI(model_name=model_name, temperature=0)
+        input_variables = re.findall(r"\{(\w+)\}", human_template)
+        chat_prompt = PromptTemplate(template=human_template, input_variables=input_variables)
     elif 'claude' in model_name:
-        chat = Anthropic(model=model_name, top_p=0.9)
+        chat = Anthropic(model=model_name, temperature=0)
         input_variables = re.findall(r"\{(\w+)\}", human_template)
         chat_prompt = PromptTemplate(template=human_template, input_variables=input_variables)
     else:
