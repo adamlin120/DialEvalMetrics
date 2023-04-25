@@ -58,6 +58,30 @@ PRED_FILE_NAME_TO_CONFIG = {
         "use_reference": "No",
         "score_range": "0-5",
     },
+    "submission_0-100_all_anthropic": {
+        "use_reference": "Yes",
+        "score_range": "0-100",
+    },
+    "submission_0-5_all_anthropic": {
+        "use_reference": "Yes",
+        "score_range": "0-5",
+    },
+    "submission_0-100_noref_all_anthropic": {
+        "use_reference": "No",
+        "score_range": "0-100",
+    },
+    "submission_0-5_noref_all_anthropic": {
+        "use_reference": "No",
+        "score_range": "0-5",
+    },
+    "submission_0-100_diallevel_anthropic": {
+        "use_reference": "Yes",
+        "score_range": "0-100",
+    },
+    "submission_0-5_diallevel_anthropic": {
+        "use_reference": "Yes",
+        "score_range": "0-5",
+    },
     "submission_0-100_noref_ablation_anthropic-sampling": {
         "use_reference": "No",
         "score_range": "0-100",
@@ -72,6 +96,14 @@ PRED_FILE_NAME_TO_CONFIG = {
     },
     "submission_0-100_ablation_anthropic-ins": {
         "use_reference": "Yes",
+        "score_range": "0-100",
+    },
+    "submission_0-5_noref_ablation_anthropic-ins": {
+        "use_reference": "No",
+        "score_range": "0-5",
+    },
+    "submission_0-100_noref_ablation_anthropic-ins": {
+        "use_reference": "No",
         "score_range": "0-100",
     },
     "submission_0-5_ablation_igpt": {

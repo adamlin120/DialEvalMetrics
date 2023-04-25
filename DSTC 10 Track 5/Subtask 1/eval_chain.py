@@ -10,6 +10,7 @@ from human_evaluation_data.generate_submission_template import (
     dialogue_dd_llmeval_iterator,
     dialogue_dev_set_iterator,
     dialogue_ablation_set_iterator,
+    dialogue_dial_level_set_iterator
 )
 from human_evaluation_data.generate_submission_template import (
     dialogue_iterator as dialogue_iterator_all,
@@ -93,7 +94,7 @@ if __name__ == "__main__":
         "--data_set",
         type=str,
         required=True,
-        choices=["dev", "test", "all", "DD_LLMEval", "ablation"],
+        choices=["dev", "test", "all", "DD_LLMEval", "ablation", "dial_level"],
     )
     parser.add_argument("--save_path", type=str, required=True)
     parser.add_argument("--reference_free", action="store_true")
@@ -111,6 +112,8 @@ if __name__ == "__main__":
         dialogue_iterator = dialogue_dd_llmeval_iterator
     elif args.data_set == "ablation":
         dialogue_iterator = dialogue_ablation_set_iterator
+    elif args.data_set == "dial_level":
+        dialogue_iterator = dialogue_dial_level_set_iterator
     else:
         raise ValueError("Unknown data set %s" % args.data_set)
 

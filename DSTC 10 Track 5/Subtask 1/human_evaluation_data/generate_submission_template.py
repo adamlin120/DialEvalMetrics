@@ -26,6 +26,11 @@ ABLATION_FILES = {
     "dstc10-topical_clean_eval.json",
 }
 
+DIALLEVEL_FILES = {
+    "dstc9-dial_eval.json",
+    "fed-dial_eval.json",
+}
+
 
 _PATH = Path(__file__).parent.absolute()
 
@@ -74,6 +79,17 @@ def dev_files_iterator():
         yield f
 
 
+def diallevel_files_iterator():
+    f_list = Path(_PATH).glob("*.json")
+    for f in f_list:
+        if f.name not in DIALLEVEL_FILES:
+            logging.warning(
+                f"Skipping {f} (not used in DSTC10 official TEST evaluation)"
+            )
+            continue
+        yield f
+
+
 def dialogue_iterator():
     for f in files_iterator():
         d = json.load(open(f))
@@ -91,6 +107,14 @@ def dialogue_test_set_iterator():
 
 def dialogue_ablation_set_iterator():
     for f in ablation_files_iterator():
+        d = json.load(open(f))
+        for item in d:
+            item["dataset"] = f.stem
+            yield item
+
+
+def dialogue_dial_level_set_iterator():
+    for f in diallevel_files_iterator():
         d = json.load(open(f))
         for item in d:
             item["dataset"] = f.stem
